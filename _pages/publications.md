@@ -6,8 +6,7 @@ author_profile: true
 date: 2021-07-20
 ---
 
-This page contains a selection of articles and papers across research areas that I have been/am currently working on. You can find my (full list of) publications on <u><a href="https://scholar.google.nl/citations?user=WZAn2CwAAAAJ&hl=en">my Google Scholar profile</a>.</u> 
-
+This page contains a selection of articles and papers across research areas that I have been/am currently working on. You can find my (full list of) publications on <u><a href="https://scholar.google.es/citations?hl=es&user=lDW7eNEAAAAJ">my Google Scholar profile</a>.</u> 
 
 ## Journals ## {#Journals}
 * A. Matei, A. Glavan, P. Radeva, E. Talavera, “Towards Eating Habits Discovery in Egocentric Photo-streams”, IEEE Access, IF 3.745, Q1, 2021.
@@ -18,10 +17,12 @@ This page contains a selection of articles and papers across research areas that
 * Md. M. Kamal Sarker, H. A. Rashwan, F. Akram, E. Talavera, S. F. Banu, P. Radeva, D. Puig, “Recognizing Food Places in Egocentric Photostreams using Multi-scale Atrous Convolutional Networks and Self-Attention Mechanism”, IEEE Access, IF 4.098, Q1, 2019.
 * M. Dimiccoli, M. Bolañnos, E. Talavera, M. Aghaei, G. Stavri, P. Radeva, “SR-Clustering: Semantic Regularized Clustering for Egocentric Photo
 Streams Segmentation”, International Journal Computer Vision and Image Understanding (CVIU), IF 2.645, Q1, 2016.
+
 ## Book Chapters ## {#Bookchapters}
 * E. Talavera, N. Petkov, P. Radeva, “Egocentric vision for behavioural understanding”, Book Chapter Wearable Sensors: Fundamentals, Implementation and Applications, 2021.
 * G. Oliveira-Barra, M. Bolaños, E. Talavera, O. Gelonch, M. Garolera, P. Radeva, “Lifelog Retrieval for Memory Stimulation of People with
 Memory Impairments”, Book Chapter Multi-modal behavior analysis in the wild, Elsevier, 2017.
+
 ## Peer-Reviewed Conferences ## {#Conferences}
 * X. wang, E. Talavera, D. Karastoyanova, G. Azzopardi, “Fall detection and recognition from egocentric visual data: A case study”, International Workshop on Artificial Intelligence for Healthcare Applications, International Conference on Pattern Recognition (ICPR), 2020.
 * A. Cartas, E. Talavera, P. Radeva, M. Dimiccoli, “Robust Activity Classification From Collections of Visual Data for Behavior Understanding”,
