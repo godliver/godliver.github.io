@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Estefanía Talavera"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "profile_picture_EstefaniaTalavera.png"
+  bio              : "Assistant Professor at Twente University, interested in data science and behaviour analysis."
   location         : "Groningen, Netherlands"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.es/citations?hl=es&user=lDW7eNEAAAAJ"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "estefania.tama@gmail.com
+  researchgate     : "https://www.researchgate.net/profile/Estefania-Talavera" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/estefaniatalavera/"
   orcid            : "https://orcid.org/0000-0001-5918-8990"
   pinterest        :
   soundcloud       :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UC3F55YP8PZWUOxs3vm1_amw"
   wikipedia        :
 
 
