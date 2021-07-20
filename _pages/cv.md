@@ -11,30 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* Joint international Ph.D. in Computer Science
+UNIVERSITY OF GRONINGEN - UNIVERSITY OF BARCELONA Feb. 2015 - Feb. 2020
+• Title: Lifelogging as a tool for behaviour understanding
+Within the Intelligent Systems group
+Keywords: Egocentric vision, Data mining, Time series, Machine learning, Behaviour analysis.
+The manuscript can be found at https://doi.org/10.33612/diss.112971105.
+
+* MSc. in Biomedical Engineering Spain
+POLYTECHNIC UNIVERSITY OF CATALONIA AND UNIVERSITY OF BARCELONA
+• Master student representative in Biomedical engineering.
+• Thesis: Towards unsupervised life-logging video segmentation.
+
+* BSc. in Industrial Electronics Palma de Mallorca, Spain
+UNIVERSITY OF BALEARIC ISLANDS Sept. 2008 - Feb. 2012
+• Bachelor student representative in Industrial Electronics. 
+• ERASMUS program - Technical University of Cluj Napoca, Romania - Sept. 2011 - Feb. 2012.
+• Thesis: MATLAB Applications on Diagnosis Facilities based on Predictive Techniques.
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Lecturer and Researcher Netherlands
+UNIVERSITY OF GRONINGEN Feb 2019 - Present
+• Coordinator and lecturer for courses at Bachelor and Master lever.
+• Supervision of BSc and MSc students.
+• Researcher in the Information Systems groupwithin the Computer Science Department. Research in egocentric perception through machine
+learning, data mining, pattern recognition, among others.
+• Organizational Task: Member of the Program Committee for the Bachelor and Master Computer Science Programs.
+• Organizational Task: Improving educational tracks with new insights from a didactic/technical perspective, including e-learning techniques.
+
 
 Publications
 ======
@@ -54,6 +62,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+  
+Personal interests
 ======
-* Currently signed in to 43 different slack teams
+
+• Traveling and planning new trips
+• Getting to know new people
+• Salsa dancing
+• Outdoor activities: diving, running, biking, hiking
+• Reading of history, society, women in society, and science
