@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 
 Education
@@ -43,8 +42,8 @@ learning, data mining, pattern recognition, among others.
 • Organizational Task: Member of the Program Committee for the Bachelor and Master Computer Science Programs.
 • Organizational Task: Improving educational tracks with new insights from a didactic/technical perspective, including e-learning techniques.
 
-
-Publications
+<a href="https://estefaniatalavera.github.io/publications/">Publications</a>
+<!--
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -62,7 +61,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  
+-->
 Personal interests
 ======
 
