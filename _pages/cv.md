@@ -11,13 +11,18 @@ redirect_from:
 Education
 ======
 
-* Joint international Ph.D. in Computer Science
-UNIVERSITY OF GRONINGEN - UNIVERSITY OF BARCELONA Feb. 2015 - Feb. 2020
-• Title: Lifelogging as a tool for behaviour understanding
-Within the Intelligent Systems group
-Keywords: Egocentric vision, Data mining, Time series, Machine learning, Behaviour analysis.
-The manuscript can be found at https://doi.org/10.33612/diss.112971105.
+<u>
+  <li>Joint international Ph.D. in Computer Science <br>
+      UNIVERSITY OF GRONINGEN - UNIVERSITY OF BARCELONA <br> 
+      Feb. 2015 - Feb. 2020 <br>
+      Title: Lifelogging as a tool for behaviour understanding <br>
+      Within the Intelligent Systems group <br>
+      Keywords: Egocentric vision, Data mining, Time series, Machine learning, Behaviour analysis.<br>
+      The manuscript can be found at <a href="https://doi.org/10.33612/diss.112971105">https://doi.org/10.33612/diss.112971105.</a><br>
+    </li>
+</u>
 
+<!-- 
 * MSc. in Biomedical Engineering Spain
 POLYTECHNIC UNIVERSITY OF CATALONIA AND UNIVERSITY OF BARCELONA
 • Master student representative in Biomedical engineering.
