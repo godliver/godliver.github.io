@@ -8,9 +8,9 @@ redirect_from:
 ---
 {% include base_path %}
 
-<h1>Education</h1>
+# Education
 
-<h2>Joint international Ph.D. in Computer Science</h2>
+## Joint international Ph.D. in Computer Science
 UNIVERSITY OF GRONINGEN - UNIVERSITY OF BARCELONA <br> 
 Feb. 2015 - Feb. 2020 <br>
 Title: Lifelogging as a tool for behaviour understanding <br>
@@ -19,12 +19,12 @@ Keywords: Egocentric vision, Data mining, Time series, Machine learning, Behavio
 The manuscript can be found at <a href="https://doi.org/10.33612/diss.112971105">https://doi.org/10.33612/diss.112971105.</a>
      
 
-<h2>MSc. in Biomedical Engineering </h2>
+## MSc. in Biomedical Engineering
 POLYTECHNIC UNIVERSITY OF CATALONIA AND UNIVERSITY OF BARCELONA <br>
 Master student representative in Biomedical engineering.<br>
 Thesis: Towards unsupervised life-logging video segmentation.
 
-<h2>BSc. in Industrial Electronics Palma de Mallorca, Spain</h2>
+## BSc. in Industrial Electronics Palma de Mallorca, Spain
 UNIVERSITY OF BALEARIC ISLANDS <br>
 Sept. 2008 - Feb. 2012 <br>
 Bachelor student representative in Industrial Electronics. <br>
@@ -34,9 +34,9 @@ Thesis: MATLAB Applications on Diagnosis Facilities based on Predictive Techniqu
 
 
 
-<h1>Work experience</h1>
+# Work experience
 
-<h2>Lecturer and Researcher Netherlands </h2>
+## Lecturer and Researcher Netherlands
 <div>
 UNIVERSITY OF GRONINGEN <br> 
 Feb 2019 - Present <br>
@@ -75,7 +75,7 @@ Teaching
   
 -->
 
-<h1>Personal interests</h1>
+# Personal interests
 <u>
   <li>Traveling and planning new trips</li>
   <li>Salsa dancing</li>
