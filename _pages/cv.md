@@ -10,41 +10,29 @@ redirect_from:
 
 <h1>Education</h1>
 
-   <h2>Joint international Ph.D. in Computer Science</h2>
-     <div>
-      UNIVERSITY OF GRONINGEN - UNIVERSITY OF BARCELONA <br> 
-      Feb. 2015 - Feb. 2020 <br>
-      Title: Lifelogging as a tool for behaviour understanding <br>
-      Within the Intelligent Systems group <br>
-      Keywords: Egocentric vision, Data mining, Time series, Machine learning, Behaviour analysis.<br>
-      The manuscript can be found at <a href="https://doi.org/10.33612/diss.112971105">https://doi.org/10.33612/diss.112971105.</a>
-      </div>
+<h2>Joint international Ph.D. in Computer Science</h2>
+UNIVERSITY OF GRONINGEN - UNIVERSITY OF BARCELONA <br> 
+Feb. 2015 - Feb. 2020 <br>
+Title: Lifelogging as a tool for behaviour understanding <br>
+Within the Intelligent Systems group <br>
+Keywords: Egocentric vision, Data mining, Time series, Machine learning, Behaviour analysis.<br>
+The manuscript can be found at <a href="https://doi.org/10.33612/diss.112971105">https://doi.org/10.33612/diss.112971105.</a>
+     
 
-  <h2>MSc. in Biomedical Engineering </h2>
-    <div>
-    POLYTECHNIC UNIVERSITY OF CATALONIA AND UNIVERSITY OF BARCELONA <br>
-    Master student representative in Biomedical engineering.<br>
-    Thesis: Towards unsupervised life-logging video segmentation.
-    </div>
+<h2>MSc. in Biomedical Engineering </h2>
+POLYTECHNIC UNIVERSITY OF CATALONIA AND UNIVERSITY OF BARCELONA <br>
+Master student representative in Biomedical engineering.<br>
+Thesis: Towards unsupervised life-logging video segmentation.
 
-  <h2>BSc. in Industrial Electronics Palma de Mallorca, Spain</h2>
-    <div>
-    UNIVERSITY OF BALEARIC ISLANDS <br>
-    Sept. 2008 - Feb. 2012 <br>
-    Bachelor student representative in Industrial Electronics. <br>
-    ERASMUS program - Technical University of Cluj Napoca, Romania - Sept. 2011 - Feb. 2012. <br>
-    Thesis: MATLAB Applications on Diagnosis Facilities based on Predictive Techniques.
-    </div>
+<h2>BSc. in Industrial Electronics Palma de Mallorca, Spain</h2>
+UNIVERSITY OF BALEARIC ISLANDS <br>
+Sept. 2008 - Feb. 2012 <br>
+Bachelor student representative in Industrial Electronics. <br>
+ERASMUS program - Technical University of Cluj Napoca, Romania - Sept. 2011 - Feb. 2012. <br>
+Thesis: MATLAB Applications on Diagnosis Facilities based on Predictive Techniques.
 
 
-<h1>Personal interests</h1>
-<p>
-• Traveling and planning new trips<br> 
-• Getting to know new people<br> 
-• Salsa dancing<br> 
-• Outdoor activities: diving, running, biking, hiking<br> 
-• Reading of history, society, women in society, and science<br> 
-</p>
+
 
 <h1>Work experience</h1>
 
@@ -60,9 +48,9 @@ Feb 2019 - Present <br>
 </div>
 
 
-<h1><a href="https://estefaniatalavera.github.io/publications/">Publications</a></h1>
+<h1 style="padding-top: 10px;"><a href="https://estefaniatalavera.github.io/publications/">Publications</a></h1>
 
-<h1><a href="https://estefaniatalavera.github.io/talks/">Talks</a></h1>
+<h1 style="padding-top: 10px;"><a href="https://estefaniatalavera.github.io/talks/">Talks</a></h1>
 
 <!-- 
 * 
@@ -87,4 +75,10 @@ Teaching
   
 -->
 
-
+<h1>Personal interests</h1>
+<u>
+  <li>Traveling and planning new trips</li>
+  <li>Salsa dancing</li>
+  <li>Outdoor activities: diving, running, biking, hiking</li>
+  <li>Reading of history, society, women in society, and science</li>
+</u>
