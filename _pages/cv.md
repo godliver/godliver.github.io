@@ -11,16 +11,16 @@ redirect_from:
 Education
 ======
 
-<u>
-  <li>Joint international Ph.D. in Computer Science <br>
+
+  <p> <h2>Joint international Ph.D. in Computer Science</h2>
       UNIVERSITY OF GRONINGEN - UNIVERSITY OF BARCELONA <br> 
       Feb. 2015 - Feb. 2020 <br>
       Title: Lifelogging as a tool for behaviour understanding <br>
       Within the Intelligent Systems group <br>
       Keywords: Egocentric vision, Data mining, Time series, Machine learning, Behaviour analysis.<br>
       The manuscript can be found at <a href="https://doi.org/10.33612/diss.112971105">https://doi.org/10.33612/diss.112971105.</a><br>
-    </li>
-</u>
+  </p>
+
 
 <!-- 
 * MSc. in Biomedical Engineering Spain
@@ -48,7 +48,7 @@ learning, data mining, pattern recognition, among others.
 • Organizational Task: Improving educational tracks with new insights from a didactic/technical perspective, including e-learning techniques.
 
 <a href="https://estefaniatalavera.github.io/publications/">Publications</a>
-<!--
+
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
