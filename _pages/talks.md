@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks"
+title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 date: 2021-07-20
