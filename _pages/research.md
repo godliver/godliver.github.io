@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 date: 2021-07-20
 ---
-
-Research 
  
 # Research interests
 
@@ -18,7 +16,7 @@ Research 
 * Autonomous health monitoring systems
 * Video and/or audio analysis
 
-Starting a PhD? 
+Starting a PhD? <br>
 If you have pre-secured a fellowship/scholarship paying your own salary or intend to apply for one, and your research interests match any of the below topics, then please feel free to send me an email.
 
 
