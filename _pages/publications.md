@@ -9,8 +9,11 @@ date: 2021-07-20
 This page contains a selection of articles and papers across research areas that I have been/am currently working on. You can find my (full list of) publications on <u><a href="https://scholar.google.es/citations?hl=es&user=lDW7eNEAAAAJ">my Google Scholar profile</a>.</u> 
 
 ## Journals ## {#Journals}
+* D. Morales, E. Talavera, , B. Remeseiro, “Playing to distraction: towards a robust training of CNN classifiers through visual explanation
+techniques”, Neural Computing and Applications, IF 5.606, Q1, 2021.
 * A. Matei, A. Glavan, P. Radeva, E. Talavera, “Towards Eating Habits Discovery in Egocentric Photo-streams”, IEEE Access, IF 3.745, Q1, 2021.
-* A. Glavan, A. Matei, P.Radeva, E. Talavera, “Social and nutritional habits interaction for behaviour understanding from egocentric photostreams”, Expert Systems with Applications, IF 5.452, Q1, 2020.
+* A. Glavan, A. Matei, P.Radeva, E. Talavera, “Does our social life influence our nutritional behaviour? Understanding nutritional habits from
+egocentric photo-streams”, Expert Systems with Applications, IF 5.452, Q1, 2020.
 * E. Talavera, N. Petkov, P. Radeva, “Topic modelling for routine discovery from egocentric photo-streams”. Pattern Recognition, IF 7.196, Q1,
 2020.
 * E. Talavera, M. Leyva-Vallina, Md M. Sarker, D. Puig, N. Petkov, P. Radeva, “Hierarchical approach to classify food scenes in egocentric photostreams” , Journal Biomedical and Health Informatics (JBHI), IF 4.217, Q1, 2019.
@@ -24,6 +27,8 @@ Streams Segmentation”, International Journal Computer Vision and Image Underst
 Memory Impairments”, Book Chapter Multi-modal behavior analysis in the wild, Elsevier, 2017.
 
 ## Peer-Reviewed Conferences ## {#Conferences}
+* K. Boekhoudt, A. Matei, M. Aghaei, E. Talavera, “HR-Crime: Human-Related Anomaly Detection in Surveillance Videos”, 19th Conference on
+Computer Analysis of Images and Patterns (CAIP), 2021.
 * X. wang, E. Talavera, D. Karastoyanova, G. Azzopardi, “Fall detection and recognition from egocentric visual data: A case study”, International Workshop on Artificial Intelligence for Healthcare Applications, International Conference on Pattern Recognition (ICPR), 2020.
 * A. Cartas, E. Talavera, P. Radeva, M. Dimiccoli, “Robust Activity Classification From Collections of Visual Data for Behavior Understanding”,
 2nd Workshop on Applications of Egocentric Vision (EgoApp), International Conference on Pattern Recognition (ICPR), 2020.
