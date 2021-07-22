@@ -6,6 +6,10 @@ venue: "University Groningen, Department of Computer Science"
 location: "Groningen, Netherlands"
 ---
 
+At RUG I co-lectured the courses Introduction to Intelligent Systems and Introduction to Machine Learning. I also lectured the master course Image Processing and bachelor course Introduction to Scientific Computing. I also did tutoring for the Introduction to Computing Science course which provides a broad introduction to different aspects of Computer Science.
+
+List of courses:
+
 ## Image Processing (MSc - 1st Year)  
 ∼30 STUDENTS AY 2020/2021
 * The course provides insight in the basic concepts of digital image processing, from image acquisition, digitisation, and preprocessing, to image enhancement, compression, restoration, segmentation and description.
