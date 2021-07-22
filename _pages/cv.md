@@ -35,14 +35,14 @@ Thesis: MATLAB Applications on Diagnosis Facilities based on Predictive Techniqu
 
 # Work experience
 
-## Assistant Professor Netherlands
+## Assistant Professor 
 UNIVERSITY OF TWENTE <br>
 Jul 2021 - Present <br>
 * Coordinator and lecturer for courses at Bachelor and Master lever.<br>
 * Supervision of BSc and MSc students.<br>
 * Researcher in the Data Management and Biometrics group. Research in video analysis and egocentric perception through machine learning, data mining, pattern recognition, among others.
 
-## Lecturer and Researcher Netherlands
+## Lecturer and Researcher 
 UNIVERSITY OF GRONINGEN <br> 
 Feb 2019 - Aug 2021 <br>
 * Coordinator and lecturer for courses at Bachelor and Master lever. <br>
