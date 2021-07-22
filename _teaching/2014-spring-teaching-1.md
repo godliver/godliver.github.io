@@ -1,10 +1,8 @@
 ---
 title: "University of Groningen"
 collection: teaching
-type: "Undergraduate course"
 permalink: /teaching/RUG
 venue: "University Groningen, Department of Computer Science"
-date: 2014-01-01
 location: "Groningen, Netherlands"
 ---
 
