@@ -6,9 +6,6 @@ venue: "University Groningen, Department of Computer Science"
 location: "Groningen, Netherlands"
 ---
 
-University of Groningen
-======
-
 ## Image Processing (MSc - 1st Year)  
 ∼30 STUDENTS AY 2020/2021
 * The course provides insight in the basic concepts of digital image processing, from image acquisition, digitisation, and preprocessing, to image enhancement, compression, restoration, segmentation and description.
