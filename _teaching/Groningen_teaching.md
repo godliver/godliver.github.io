@@ -3,6 +3,7 @@ title: "University of Groningen"
 collection: teaching
 permalink: /teaching/RUG
 venue: "University Groningen, Department of Computer Science"
+date: 2019-2021
 location: "Groningen, Netherlands"
 ---
 
