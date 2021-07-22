@@ -6,7 +6,7 @@ author_profile: true
 date: 2021-07-20
 ---
 
-## TUTORIAL ON Egocentric Perception and Machine Learning Online Tutorial
+## TUTORIAL ON Egocentric Perception and Machine Learning
 Jun. 2021, Online Tutorial 
 * Tutorial in the series of “AI & Data Science Training by Experts”, Busitema University, Uganda.
 
