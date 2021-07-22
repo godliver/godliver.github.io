@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+date: 2021-07-20
+---
+
 Research 
  
 # Research interests
