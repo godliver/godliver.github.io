@@ -9,7 +9,7 @@ date: 2021-07-20
 This page contains a selection of articles and papers across research areas that I have been/am currently working on. You can find my (full list of) publications on <u><a href="https://scholar.google.es/citations?hl=es&user=lDW7eNEAAAAJ">my Google Scholar profile</a>.</u> 
 
 ## Journals ## {#Journals}
-* D. Morales, E. Talavera, , B. Remeseiro, “Playing to distraction: towards a robust training of CNN classifiers through visual explanation
+* D. Morales, E. Talavera, B. Remeseiro, “Playing to distraction: towards a robust training of CNN classifiers through visual explanation
 techniques”, Neural Computing and Applications, IF 5.606, Q1, 2021.
 * A. Matei, A. Glavan, P. Radeva, E. Talavera, “Towards Eating Habits Discovery in Egocentric Photo-streams”, IEEE Access, IF 3.745, Q1, 2021.
 * A. Glavan, A. Matei, P.Radeva, E. Talavera, “Does our social life influence our nutritional behaviour? Understanding nutritional habits from
