@@ -29,7 +29,7 @@ Thesis: Towards unsupervised life-logging video segmentation.
 UNIVERSITY OF BALEARIC ISLANDS <br>
 Sept 2008 - Feb 2012 <br>
 Bachelor student representative in Industrial Electronics. <br>
-ERASMUS program - Technical University of Cluj Napoca, Romania - Sept. 2011 - Feb. 2012. <br>
+ERASMUS program - Technical University of Cluj Napoca, Romania - Sept 2011 - Feb 2012. <br>
 Thesis: MATLAB Applications on Diagnosis Facilities based on Predictive Techniques.
 
 <div style="padding-top: 20px;"></div>
