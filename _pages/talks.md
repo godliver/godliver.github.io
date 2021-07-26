@@ -15,7 +15,7 @@ Tutorial in the series of “AI & Data Science Training by Experts”, Busitema 
 Jun 2020 <br>
 Online Conference <br>
 I was selected to participate in the Doctoral Consortium where I could share my doctoral research. <br>
-Video: https://www.youtube.com/watch?v=wxi7f-CVPtI
+<u><a href="https://www.youtube.com/watch?v=wxi7f-CVPtI">Video</a></u>
 
 ## TUTORIAL ON “Research, Computer Science, and Gender” 
 Dec 2019 <br>
@@ -30,4 +30,4 @@ Together with Prof. Petia Radeva and MSc. Marc Bolaños we discussed deep learni
 ## 3-Minute Thesis Competition Groningen, The Netherlands
 May 2018 <br>
 Selected for the final on stage competition <br>
-Video: https://youtu.be/H6_chK3T8DU
+<u><a href="https://youtu.be/H6_chK3T8DU">Video</a></u>
