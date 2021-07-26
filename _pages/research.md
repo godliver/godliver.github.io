@@ -19,7 +19,7 @@ date: 2021-07-20
 Starting a PhD? <br>
 If you have pre-secured a fellowship/scholarship paying your own salary or intend to apply for one, and your research interests match any of the below topics, then please feel free to send me an email.
 
-
+屯特大学鼓励中国有学之士与我校的博士生导师合作撰写他们的博士研究计划，并协助申请CSC或其他中国奖学金。如果你对以下提到的任何研究方向感兴趣，欢迎踊跃联系！
 
 # Datasets 
 
