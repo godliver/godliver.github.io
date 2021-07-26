@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "Research"
+title: "Research interests"
 permalink: /research/
 author_profile: true
 date: 2021-07-20
 ---
- 
-# Research interests
 
 * Human behaviour analysis 
 * Data mining
