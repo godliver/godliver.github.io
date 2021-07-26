@@ -13,7 +13,7 @@ redirect_from:
 # Education
 ## Joint international Ph.D. in Computer Science
 UNIVERSITY OF GRONINGEN - UNIVERSITY OF BARCELONA <br> 
-Feb. 2015 - Feb. 2020 <br>
+Feb 2015 - Feb 2020 <br>
 Title: Lifelogging as a tool for behaviour understanding <br>
 Within the Intelligent Systems group <br>
 Keywords: Egocentric vision, Data mining, Time series, Machine learning, Behaviour analysis.<br>
@@ -26,7 +26,7 @@ Thesis: Towards unsupervised life-logging video segmentation.
 
 ## BSc. in Industrial Electronics Palma de Mallorca, Spain
 UNIVERSITY OF BALEARIC ISLANDS <br>
-Sept. 2008 - Feb. 2012 <br>
+Sept 2008 - Feb 2012 <br>
 Bachelor student representative in Industrial Electronics. <br>
 ERASMUS program - Technical University of Cluj Napoca, Romania - Sept. 2011 - Feb. 2012. <br>
 Thesis: MATLAB Applications on Diagnosis Facilities based on Predictive Techniques.
