@@ -23,31 +23,22 @@ If you have pre-secured a fellowship/scholarship paying your own salary or inten
 
 # Datasets 
 
-## Egocentric datasets
+## Egocentric Perception
 
 ### EgoFoodPlaces <br>
 <u><a href="https://pubmed.ncbi.nlm.nih.gov/31199277/">Paper</a></u>, <u><a href="https://pubmed.ncbi.nlm.nih.gov/31199277/">Dataset</a></u> <br>
 
-@article{martinez2019hierarchical,  <br>
-  title={Hierarchical approach to classify food scenes in egocentric photo-streams},  <br>
-  author={Martinez, Estefania Talavera and Leyva-Vallina, Maria and Sarker, Md Mostafa Kamal and Puig, Domenec and Petkov, Nicolai and Radeva, Petia},  <br>
-  journal={IEEE journal of biomedical and health informatics},  <br>
-  volume={24},  <br>
-  number={3},  <br>
-  pages={866--877}, <br>
-  year={2019}, <br>
-  publisher={IEEE} <br>
-}
+Martinez, Estefania Talavera, et al. "Hierarchical approach to classify food scenes in egocentric photo-streams." IEEE journal of biomedical and health informatics 24.3 (2019): 866-877. <br>
 
 ### EgoRoutine <br>
 <u><a href="https://www.sciencedirect.com/science/article/pii/S0031320320301333">Paper</a></u>, <u><a href="https://www.sciencedirect.com/science/article/pii/S0031320320301333">Dataset</a></u> <br>
 
-@article{talavera2020topic, <br>
-  title={Topic modelling for routine discovery from egocentric photo-streams},  <br>
-  author={Talavera, Estefania and Wuerich, Carolin and Petkov, Nicolai and Radeva, Petia}, <br>
-  journal={Pattern Recognition}, <br>
-  volume={104}, <br>
-  pages={107330}, <br>
-  year={2020}, <br>
-  publisher={Elsevier}
-}
+Talavera, Estefania, et al. "Topic modelling for routine discovery from egocentric photo-streams." Pattern Recognition 104 (2020): 107330. <br>
+  
+  
+## Human Behaviour Surveillance Videos
+
+### HR-Crime <br>
+<u><a href="https://doi.org/10.34894/IRRDJE">Paper</a></u>, <u><a href="https://doi.org/10.34894/IRRDJE">Dataset</a></u> <br>
+
+K. Boekhoudt, A. Matei, M. Aghaei, E. Talavera, “HR-Crime: Human-Related Anomaly Detection in Surveillance Videos”, 19th Conference on Computer Analysis of Images and Patterns (CAIP), 2021. <br>
