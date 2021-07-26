@@ -1,4 +1,9 @@
-
+---
+layout: archive
+title: "News"
+permalink: /news/
+author_profile: true
+---
 
 ## Started new position at UT
 Jul 1, 2021 #University of Twente <br>
