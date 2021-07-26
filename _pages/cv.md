@@ -21,6 +21,7 @@ The manuscript can be found at <a href="https://doi.org/10.33612/diss.112971105"
 
 ## MSc. in Biomedical Engineering
 POLYTECHNIC UNIVERSITY OF CATALONIA AND UNIVERSITY OF BARCELONA <br>
+Sept 2012 - Jun 2014 <br>
 Master student representative in Biomedical engineering.<br>
 Thesis: Towards unsupervised life-logging video segmentation.
 
