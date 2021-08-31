@@ -10,7 +10,7 @@ This page contains a selection of articles and papers across research areas that
 
 ## Journals ## {#Journals}
 * D. Morales, E. Talavera, B. Remeseiro, “Playing to distraction: towards a robust training of CNN classifiers through visual explanation
-techniques”, Neural Computing and Applications, IF 5.606, Q1, 2021.
+techniques”, Neural Computing and Applications, IF 5.606, Q1, 2021. <u><a href="https://link.springer.com/article/10.1007/s00521-021-06282-2">Paper,</a></u> <u><a href="https://www.rug.nl/sciencelinx/nieuws/2021/07/artificial-intelligence-learns-better-when-distracted">Media</a></u>
 * A. Matei, A. Glavan, P. Radeva, E. Talavera, “Towards Eating Habits Discovery in Egocentric Photo-streams”, IEEE Access, IF 3.745, Q1, 2021.
 * A. Glavan, A. Matei, P. Radeva, E. Talavera, “Does our social life influence our nutritional behaviour? Understanding nutritional habits from
 egocentric photo-streams”, Expert Systems with Applications, IF 5.452, Q1, 2020.
