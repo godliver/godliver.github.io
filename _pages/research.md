@@ -14,6 +14,11 @@ date: 2021-07-20
 * Autonomous health monitoring systems
 * Video and/or audio analysis
 
+Wanting to collaborate? <br>
+You can always reach me at e.talaveramartinez@utwente.nl <br>
+You can also connect via <u><a href="https://www.linkedin.com/in/estefaniatalavera/">Linkedin</a></u> or <u><a href="https://twitter.com/eTalaveraM">Twitter</a></u>.
+
+
 Starting a PhD? <br>
 If you have pre-secured a fellowship/scholarship paying your own salary or intend to apply for one, and your research interests match any of the below topics, then please feel free to send me an email.
 
