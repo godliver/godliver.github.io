@@ -39,7 +39,7 @@ Thesis: MATLAB Applications on Diagnosis Facilities based on Predictive Techniqu
 ## Assistant Professor 
 UNIVERSITY OF TWENTE <br>
 Jul 2021 - Present <br>
-* Coordinator and lecturer for courses at Bachelor and Master lever.<br>
+* Lecturer for courses at Bachelor and Master level.<br>
 * Supervision of BSc and MSc students.<br>
 * Researcher in the Data Management and Biometrics group. Research in video analysis and egocentric perception through machine learning, data mining, pattern recognition, among others.
 
