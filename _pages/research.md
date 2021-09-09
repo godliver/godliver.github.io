@@ -44,4 +44,4 @@ Talavera, Estefania, Carolin Wuerich, Nicolai Petkov, and Petia Radeva. "Topic m
 ### HR-Crime <br>
 <u><a href="https://arxiv.org/abs/2108.00246">Paper</a></u>, <u><a href="https://doi.org/10.34894/IRRDJE">Dataset</a></u> <br>
 
-K. Boekhoudt, A. Matei, M. Aghaei, E. Talavera, “HR-Crime: Human-Related Anomaly Detection in Surveillance Videos”, 19th Conference on Computer Analysis of Images and Patterns (CAIP), 2021. <br>
+K. Boekhoudt, A. Matei, M. Aghaei, E. Talavera, “HR-Crime: Human-related anomaly detection in surveillance videos”, 19th Conference on Computer Analysis of Images and Patterns (CAIP), 2021. <br>
