@@ -39,7 +39,7 @@ Martinez, Estefania Talavera, Maria Leyva-Vallina, Md Mostafa Kamal Sarker, Dome
 Talavera, Estefania, Carolin Wuerich, Nicolai Petkov, and Petia Radeva. "Topic modelling for routine discovery from egocentric photo-streams." Pattern Recognition 104 (2020): 107330. <br>
   
   
-## Human Behaviour Surveillance Videos
+## Human Behaviour in Surveillance Videos
 
 ### HR-Crime <br>
 <u><a href="https://arxiv.org/abs/2108.00246">Paper</a></u>, <u><a href="https://doi.org/10.34894/IRRDJE">Dataset</a></u> <br>
