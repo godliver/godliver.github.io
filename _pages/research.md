@@ -29,12 +29,12 @@ If you have pre-secured a fellowship/scholarship paying your own salary or inten
 ## Egocentric Perception
 
 ### EgoFoodPlaces <br>
-<u><a href="https://pubmed.ncbi.nlm.nih.gov/31199277/">Paper</a></u>, <u><a href="https://pubmed.ncbi.nlm.nih.gov/31199277/">Dataset</a></u> <br>
+<u><a href="https://pubmed.ncbi.nlm.nih.gov/31199277/">Paper</a></u>, <u><a href="https://doi.org/10.4121/16592420.v1">Dataset</a></u> <br>
 
 Martinez, Estefania Talavera, Maria Leyva-Vallina, Md Mostafa Kamal Sarker, Domenec Puig, Nicolai Petkov, and Petia Radeva. "Hierarchical approach to classify food scenes in egocentric photo-streams." IEEE journal of biomedical and health informatics 24, no. 3 (2019): 866-877. <br>
 
 ### EgoRoutine <br>
-<u><a href="https://www.sciencedirect.com/science/article/pii/S0031320320301333">Paper</a></u>, <u><a href="https://www.sciencedirect.com/science/article/pii/S0031320320301333">Dataset</a></u> <br>
+<u><a href="https://www.sciencedirect.com/science/article/pii/S0031320320301333">Paper</a></u>, <u><a href="https://doi.org/10.4121/16577627.v1">Dataset</a></u> <br>
 
 Talavera, Estefania, Carolin Wuerich, Nicolai Petkov, and Petia Radeva. "Topic modelling for routine discovery from egocentric photo-streams." Pattern Recognition 104 (2020): 107330. <br>
   
