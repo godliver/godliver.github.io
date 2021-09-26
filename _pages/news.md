@@ -5,6 +5,9 @@ permalink: /news/
 author_profile: true
 ---
 
+## First prize for my 3-min PhD thesis presentation by the AERFAI at the CEDI 20/21 conference 
+Sept 23, 2021 <br>
+
 ## Started new position at UT
 Jul 1, 2021 #University of Twente <br>
 
