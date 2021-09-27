@@ -8,6 +8,8 @@ date: 2021-07-20
 
 This page contains a selection of articles and papers across research areas that I have been/am currently working on. You can find my (full list of) publications on <u><a href="https://scholar.google.es/citations?hl=es&user=lDW7eNEAAAAJ">my Google Scholar profile</a>.</u> 
 
+You can find video presentations of our work at the following <u><a href="https://www.youtube.com/channel/UC3F55YP8PZWUOxs3vm1_amw">YouTube channel</a></u>.<br>
+
 ## Journals ## {#Journals}
 * D. Morales, E. Talavera, B. Remeseiro, “Playing to distraction: towards a robust training of CNN classifiers through visual explanation
 techniques”, Neural Computing and Applications, IF 5.606, Q1, 2021. <u><a href="https://link.springer.com/article/10.1007/s00521-021-06282-2">Paper,</a></u> <u><a href="https://www.rug.nl/sciencelinx/nieuws/2021/07/artificial-intelligence-learns-better-when-distracted">Media</a></u>
