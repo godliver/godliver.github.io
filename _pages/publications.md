@@ -16,7 +16,7 @@ techniques”, Neural Computing and Applications, IF 5.606, Q1, 2021. <u><a href
 * A. Matei, A. Glavan, P. Radeva, E. Talavera, “Towards Eating Habits Discovery in Egocentric Photo-streams”, IEEE Access, IF 3.745, Q1, 2021.
 * A. Glavan, A. Matei, P. Radeva, E. Talavera, “Does our social life influence our nutritional behaviour? Understanding nutritional habits from
 egocentric photo-streams”, Expert Systems with Applications, IF 5.452, Q1, 2020. <u><a href="https://www.youtube.com/watch?v=an86sHu6qdg&t=1s">Video</a></u>
-* E. Talavera, N. Petkov, P. Radeva, “Topic modelling for routine discovery from egocentric photo-streams”. Pattern Recognition, IF 7.196, Q1, 2020.
+* E. Talavera, C. Wuerich, N. Petkov, P. Radeva, “Topic modelling for routine discovery from egocentric photo-streams”. Pattern Recognition, IF 7.196, Q1, 2020.
 * E. Talavera, M. Leyva-Vallina, Md M. Sarker, D. Puig, N. Petkov, P. Radeva, “Hierarchical approach to classify food scenes in egocentric photostreams” , Journal Biomedical and Health Informatics (JBHI), IF 4.217, Q1, 2019.
 * Md. M. Kamal Sarker, H. A. Rashwan, F. Akram, E. Talavera, S. F. Banu, P. Radeva, D. Puig, “Recognizing Food Places in Egocentric Photostreams using Multi-scale Atrous Convolutional Networks and Self-Attention Mechanism”, IEEE Access, IF 4.098, Q1, 2019.
 * M. Dimiccoli, M. Bolañnos, E. Talavera, M. Aghaei, G. Stavri, P. Radeva, “SR-Clustering: Semantic Regularized Clustering for Egocentric Photo
