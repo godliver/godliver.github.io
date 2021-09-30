@@ -30,12 +30,13 @@ Memory Impairments”, Book Chapter Multi-modal behavior analysis in the wild, E
 
 ## Peer-Reviewed Conferences ## {#Conferences}
 * K. Boekhoudt, A. Matei, M. Aghaei, E. Talavera, “HR-Crime: Human-Related Anomaly Detection in Surveillance Videos”, 19th Conference on
-Computer Analysis of Images and Patterns (CAIP), 2021. <u><a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/IRRDJE">Dataset</a></u>
-* X. wang, E. Talavera, D. Karastoyanova, G. Azzopardi, “Fall detection and recognition from egocentric visual data: A case study”, International Workshop on Artificial Intelligence for Healthcare Applications, International Conference on Pattern Recognition (ICPR), 2020. <u><a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/3DV8BF">Dataset</a></u>
+Computer Analysis of Images and Patterns (CAIP), 2021. <u><a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/IRRDJE">Dataset</a></u>, <u><a href="https://www.youtube.com/watch?v=sljLQe6fwIw&t=5s">Video</a></u>
+* X. Wang, E. Talavera, D. Karastoyanova, G. Azzopardi, “Fall detection and recognition from egocentric visual data: A case study”, International Workshop on Artificial Intelligence for Healthcare Applications, International Conference on Pattern Recognition (ICPR), 2020. <u><a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/3DV8BF">Dataset</a></u>
 * A. Cartas, E. Talavera, P. Radeva, M. Dimiccoli, “Robust Activity Classification From Collections of Visual Data for Behavior Understanding”,
 2nd Workshop on Applications of Egocentric Vision (EgoApp), International Conference on Pattern Recognition (ICPR), 2020.
 * A. Matei, A. Glavan, E. Talavera, “Deep learning for scene recognition from visual data: a survey”, 15th International Conference on Hybrid Artificial Intelligence Systems (HAIS), 2020. <u><a href="https://www.youtube.com/watch?v=6e-Y1ZltWlQ">Video</a></u>
-* M. Menchon, E. Talavera, J. M Massa, P. Radeva, “Behavioural pattern discovery from collections of egocentric photo-streams”, 8th International Workshop on Assistive Computer Vision and Robotics, European Conference on Computer Vision (ECCV), 2020.
+* M. Menchon, E. Talavera, J. M Massa, P. Radeva, “Behavioural pattern discovery from collections of egocentric photo-streams”, 8th International Workshop on Assistive Computer Vision and Robotics, European Conference on Computer Vision (ECCV), 2020. <u><a href="
+https://www.youtube.com/watch?v=MoGu1KKIAxA&t=414s">Video</a></u>
 * E. Talavera, N. Petkov, P. Radeva, “Unsupervised routine discovery in egocentric photo-streams”, 18th Conference on Computer Analysis of Images and Patterns (CAIP), published in proceedings as Chapter Springer Verlag, 2019.
 * M. Kamal, H. Rashwan, E. Talavera, S. Furruka, P. Radeva, D. Puig, “MACNet: Multi-scale Atrous Convolution Networks for Food Places Classification in Egocentric Photo-streams”, 3rd Workshop on Egocentric Perception, Interaction and Computing (EPIC), published in the proceedings, 2018.
 * A. Cartas, E. Talavera, P. Radeva, M. Dimiccoli, “On the Role of Event Boundaries in Egocentric Activity Recognition from Photostreams”,
