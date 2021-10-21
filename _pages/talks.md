@@ -8,7 +8,7 @@ date: 2021-07-20
 ## Invited Talk ON "Human Behaviour Understanding and Egocentric Perception” 
 Oct 2021 <br> 
 Online Talk <br>
-Invited Talk in the series of “LXAI Workshop”, ICCV, Virtual.
+Invited Talk in the series of “LXAI Workshop”, ICCV, Virtual.<br>
 <u><a href="https://youtu.be/HP8Ay-i35T8">Video</a></u>
 
 ## TUTORIAL ON Egocentric Perception and Machine Learning
