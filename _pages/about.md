@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-During my PhD research studies I proposed several techniques for egocentric images analysis, such as inferred sentiment computation from visual and semantic features extracted from the images, and behavioural patterns analysis by describing routines understood as the repetition of activities. In February 2020 I obtained my PhD degree in Computer Science from the University of Groningen and the University of Barcelona, under the supervision of Prof. Nicolai Petkov (RUG) and Prof. Petia Radeva (UB).
+Assistant Professor at the <u><a href="https://www.utwente.nl/en/eemcs/dmb/">Data Management and Biometrics group</a></u> at the University of Twente. <u><a href="https://estefaniatalavera.github.io/research/">Research interests</a></u> include computer vision, machine learning, and their intersection for human behaviour understanding.
 
-Currently, I am an Assistant Professor at the Data Management and Biometrics group at the University of Twente. My research interests are in the intersection of computer science and human behaviour understanding.
+Prior to joining UTwente, she was a lecturer and researcher in the <u><a href="http://www.cs.rug.nl/infosys/">Information Systems group</a></u> at the University of Groningen. She received her PhD from the <u><a href="https://www.cs.rug.nl/is/Main/People">University of Groningen</a></u> and the <u><a href="http://www.ub.edu/cvub/">University of Barcelona</a></u>, in Feb 2020. 
 
-I try to balance my life by dancing salsa, hanging out with friends, visiting family in Majorca, and travelling around the world.
 
 
 
