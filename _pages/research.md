@@ -37,7 +37,7 @@ Talavera, Estefania, Carolin Wuerich, Nicolai Petkov, and Petia Radeva. "Topic m
 ### InstaIndoor - Indoor scene recognition in videos gathered from social media  <br>
 <u><a href="https://arxiv.org/abs/2112.12409">Paper,</a></u> <u><a href="https://github.com/andreea-glavan/multimodal-audiovisual-scene-recognition">GitHub with code and dataset</a></u> <br>
 
-A. Glavan, E. Talavera, “InstaIndoor and multi-modal deep learning for indoor scene recognition”, Neural Computing and Applications, IF 5.6, Q1, 2022. 
+A. Glavan, E. Talavera, “InstaIndoor and multi-modal deep learning for indoor scene recognition”, Neural Computing and Applications, 2022. 
 
 ### HR-Crime - Human related crime in surveillance fideos<br>
 <u><a href="https://arxiv.org/abs/2108.00246">Paper</a></u>, <u><a href="https://doi.org/10.34894/IRRDJE">Dataset</a></u> <br>
