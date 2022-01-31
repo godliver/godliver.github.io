@@ -27,12 +27,12 @@ If you have pre-secured a fellowship/scholarship paying your own salary or inten
 ### EgoFoodPlaces - Food related scenes in egocentric photo-streams <br>
 <u><a href="https://pubmed.ncbi.nlm.nih.gov/31199277/">Paper</a></u>, <u><a href="https://doi.org/10.4121/16592420.v1">Dataset</a></u> <br>
 
-Martinez, Estefania Talavera, Maria Leyva-Vallina, Md Mostafa Kamal Sarker, Domenec Puig, Nicolai Petkov, and Petia Radeva. "Hierarchical approach to classify food scenes in egocentric photo-streams." IEEE journal of biomedical and health informatics 24, no. 3 (2019): 866-877. <br>
+Martinez, Estefania Talavera, Maria Leyva-Vallina, Md Mostafa Kamal Sarker, Domenec Puig, Nicolai Petkov, and Petia Radeva. "Hierarchical approach to classify food scenes in egocentric photo-streams." IEEE journal of biomedical and health informatics 24, 2019. <br>
 
 ### EgoRoutine - Routine related human behaviour in egocentric photo-streams <br>
 <u><a href="https://www.sciencedirect.com/science/article/pii/S0031320320301333">Paper</a></u>, <u><a href="https://doi.org/10.4121/16577627.v1">Dataset</a></u> <br>
 
-Talavera, Estefania, Carolin Wuerich, Nicolai Petkov, and Petia Radeva. "Topic modelling for routine discovery from egocentric photo-streams." Pattern Recognition 104 (2020): 107330. <br>
+Talavera, Estefania, Carolin Wuerich, Nicolai Petkov, and Petia Radeva. "Topic modelling for routine discovery from egocentric photo-streams." Pattern Recognition 104, 2020. <br>
 
 ### InstaIndoor - Indoor scene recognition in videos gathered from social media  <br>
 <u><a href="https://arxiv.org/abs/2112.12409">Paper,</a></u> <u><a href="https://github.com/andreea-glavan/multimodal-audiovisual-scene-recognition">GitHub with code and dataset</a></u> <br>
