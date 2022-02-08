@@ -11,11 +11,11 @@ You can find video presentations of our work at the following <u><a href="https:
 ## Journals ## {#Journals}
 
 
-* A. Glavan, E. Talavera, “InstaIndoor and multi-modal deep learning for indoor scene recognition”, Neural Computing and Applications, IF 5.6, Q1, 2022. <u><a href="https://arxiv.org/abs/2112.12409">Paper,</a></u> <u><a href="https://github.com/andreea-glavan/multimodal-audiovisual-scene-recognition">GitHub,</a></u> <u><a href="https://www.rug.nl/sciencelinx/nieuws/2022/01/instagram-teaches-ai-to-recognize-rooms
-">Media</a></u>
+* A. Glavan, E. Talavera, “InstaIndoor and multi-modal deep learning for indoor scene recognition”, Neural Computing and Applications, IF 5.6, Q1, 2022. <u><a href="https://arxiv.org/abs/2112.12409" target="_blank">Paper,</a></u> <u><a href="https://github.com/andreea-glavan/multimodal-audiovisual-scene-recognition" target="_blank">GitHub,</a></u> <u><a href="https://www.rug.nl/sciencelinx/nieuws/2022/01/instagram-teaches-ai-to-recognize-rooms
+" target="_blank">Media</a></u>
 * D. Morales, E. Talavera, B. Remeseiro, “Playing to distraction: towards a robust training of CNN classifiers through visual explanation
-techniques”, Neural Computing and Applications, IF 5.606, Q1, 2021. <u><a href="https://link.springer.com/article/10.1007/s00521-021-06282-2">Paper,</a></u> <u><a href="https://www.rug.nl/sciencelinx/nieuws/2021/07/artificial-intelligence-learns-better-when-distracted">Media</a></u>
-* A. Glavan, A. Matei, P. Radeva, E. Talavera, “Does our social life influence our nutritional behaviour? Understanding nutritional habits from egocentric photo-streams”, Expert Systems with Applications, IF 5.452, Q1, 2021. <u><a href="https://www.youtube.com/watch?v=an86sHu6qdg&t=1s">Video</a></u>
+techniques”, Neural Computing and Applications, IF 5.606, Q1, 2021. <u><a href="https://link.springer.com/article/10.1007/s00521-021-06282-2" target="_blank">Paper,</a></u> <u><a href="https://www.rug.nl/sciencelinx/nieuws/2021/07/artificial-intelligence-learns-better-when-distracted" target="_blank">Media</a></u>
+* A. Glavan, A. Matei, P. Radeva, E. Talavera, “Does our social life influence our nutritional behaviour? Understanding nutritional habits from egocentric photo-streams”, Expert Systems with Applications, IF 5.452, Q1, 2021. <u><a href="https://www.youtube.com/watch?v=an86sHu6qdg&t=1s" target="_blank">Video</a></u>
 * A. Matei, A. Glavan, P. Radeva, E. Talavera, “Towards Eating Habits Discovery in Egocentric Photo-streams”, IEEE Access, IF 3.745, Q1, 2021.
 * E. Talavera, C. Wuerich, N. Petkov, P. Radeva, “Topic modelling for routine discovery from egocentric photo-streams”. Pattern Recognition, IF 7.196, Q1, 2020.
 * E. Talavera, M. Leyva-Vallina, Md M. Sarker, D. Puig, N. Petkov, P. Radeva, “Hierarchical approach to classify food scenes in egocentric photostreams” , Journal Biomedical and Health Informatics (JBHI), IF 4.217, Q1, 2019.
@@ -30,13 +30,13 @@ Memory Impairments”, Book Chapter Multi-modal behavior analysis in the wild, E
 
 ## Peer-Reviewed Conferences ## {#Conferences}
 * K. Boekhoudt, A. Matei, M. Aghaei, E. Talavera, “HR-Crime: Human-Related Anomaly Detection in Surveillance Videos”, 19th Conference on
-Computer Analysis of Images and Patterns (CAIP), 2021. <u><a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/IRRDJE">Dataset</a></u>, <u><a href="https://www.youtube.com/watch?v=sljLQe6fwIw&t=5s">Video</a></u>
-* X. Wang, E. Talavera, D. Karastoyanova, G. Azzopardi, “Fall detection and recognition from egocentric visual data: A case study”, International Workshop on Artificial Intelligence for Healthcare Applications, International Conference on Pattern Recognition (ICPR), 2020. <u><a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/3DV8BF">Dataset</a></u>
+Computer Analysis of Images and Patterns (CAIP), 2021. <u><a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/IRRDJE" target="_blank">Dataset</a></u>, <u><a href="https://www.youtube.com/watch?v=sljLQe6fwIw&t=5s" target="_blank">Video</a></u>
+* X. Wang, E. Talavera, D. Karastoyanova, G. Azzopardi, “Fall detection and recognition from egocentric visual data: A case study”, International Workshop on Artificial Intelligence for Healthcare Applications, International Conference on Pattern Recognition (ICPR), 2020. <u><a href="https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/3DV8BF" target="_blank">Dataset</a></u>
 * A. Cartas, E. Talavera, P. Radeva, M. Dimiccoli, “Robust Activity Classification From Collections of Visual Data for Behavior Understanding”,
 2nd Workshop on Applications of Egocentric Vision (EgoApp), International Conference on Pattern Recognition (ICPR), 2020.
-* A. Matei, A. Glavan, E. Talavera, “Deep learning for scene recognition from visual data: a survey”, 15th International Conference on Hybrid Artificial Intelligence Systems (HAIS), 2020. <u><a href="https://www.youtube.com/watch?v=6e-Y1ZltWlQ">Video</a></u>
+* A. Matei, A. Glavan, E. Talavera, “Deep learning for scene recognition from visual data: a survey”, 15th International Conference on Hybrid Artificial Intelligence Systems (HAIS), 2020. <u><a href="https://www.youtube.com/watch?v=6e-Y1ZltWlQ" target="_blank">Video</a></u>
 * M. Menchon, E. Talavera, J. M Massa, P. Radeva, “Behavioural pattern discovery from collections of egocentric photo-streams”, 8th International Workshop on Assistive Computer Vision and Robotics, European Conference on Computer Vision (ECCV), 2020. <u><a href="
-https://www.youtube.com/watch?v=MoGu1KKIAxA&t=414s">Video</a></u>
+https://www.youtube.com/watch?v=MoGu1KKIAxA&t=414s" target="_blank">Video</a></u>
 * E. Talavera, N. Petkov, P. Radeva, “Unsupervised routine discovery in egocentric photo-streams”, 18th Conference on Computer Analysis of Images and Patterns (CAIP), published in proceedings as Chapter Springer Verlag, 2019.
 * M. Kamal, H. Rashwan, E. Talavera, S. Furruka, P. Radeva, D. Puig, “MACNet: Multi-scale Atrous Convolution Networks for Food Places Classification in Egocentric Photo-streams”, 3rd Workshop on Egocentric Perception, Interaction and Computing (EPIC), published in the proceedings, 2018.
 * A. Cartas, E. Talavera, P. Radeva, M. Dimiccoli, “On the Role of Event Boundaries in Egocentric Activity Recognition from Photostreams”,
