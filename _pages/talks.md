@@ -9,7 +9,7 @@ date: 2021-07-20
 Oct 2021 <br> 
 Online Talk <br>
 Invited Featured Talk in the series of “LXAI Workshop”, ICCV, Virtual.<br>
-<u><a href="https://youtu.be/HP8Ay-i35T8">Video</a></u>
+<u><a href="https://youtu.be/HP8Ay-i35T8" target="_blank">Video</a></u>
 
 ## TUTORIAL ON Egocentric Perception and Machine Learning
 Jun 2021 <br> 
@@ -20,7 +20,7 @@ Tutorial in the series of “AI & Data Science Training by Experts”, Busitema 
 Jun 2020 <br>
 Online Conference <br>
 I was selected to participate to share my doctoral research at the Doctoral Consortium of CVPR. <br>
-<u><a href="https://www.youtube.com/watch?v=wxi7f-CVPtI">Video</a></u>
+<u><a href="https://www.youtube.com/watch?v=wxi7f-CVPtI" target="_blank">Video</a></u>
 
 ## TUTORIAL ON “Research, Computer Science, and Gender” 
 Dec 2019 <br>
@@ -35,4 +35,4 @@ Together with Prof. Petia Radeva and MSc. Marc Bolaños we discussed deep learni
 ## 3-Minute Thesis Competition Groningen
 May 2018 <br>
 Selected for the final on stage competition, The Netherlands <br>
-<u><a href="https://youtu.be/H6_chK3T8DU">Video</a></u>
+<u><a href="https://youtu.be/H6_chK3T8DU" target="_blank">Video</a></u>
