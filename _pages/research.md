@@ -15,7 +15,7 @@ date: 2021-07-20
 * Video and/or audio analysis
 
 Wanting to collaborate? <br>
-You can always reach me at e dot talaveramartinez at utwente dot nl <br>
+You can always reach me at e(dot)talaveramartinez(at)utwente(dot)nl <br>
 You can also connect via <u><a href="https://www.linkedin.com/in/estefaniatalavera/" target="_blank">Linkedin</a></u> or <u><a href="https://twitter.com/eTalaveraM" target="_blank">Twitter</a></u>.
 
 
