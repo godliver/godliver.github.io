@@ -12,7 +12,7 @@ You can find video presentations of our work at the following <u><a href="https:
 
 
 * A. Glavan, E. Talavera, “InstaIndoor and multi-modal deep learning for indoor scene recognition”, Neural Computing and Applications, IF 5.6, Q1, 2022. <u><a href="https://arxiv.org/abs/2112.12409" target="_blank">Paper,</a></u> <u><a href="https://github.com/andreea-glavan/multimodal-audiovisual-scene-recognition" target="_blank">GitHub,</a></u> <u><a href="https://www.rug.nl/sciencelinx/nieuws/2022/01/instagram-teaches-ai-to-recognize-rooms
-" target="_blank">Media</a></u>
+" target="_blank">Media,</a></u>  <u><a href="https://www.youtube.com/watch?v=wSP9bvQi7so&t=4s" target="_blank">Video</a></u>
 * D. Morales, E. Talavera, B. Remeseiro, “Playing to distraction: towards a robust training of CNN classifiers through visual explanation
 techniques”, Neural Computing and Applications, IF 5.606, Q1, 2021. <u><a href="https://link.springer.com/article/10.1007/s00521-021-06282-2" target="_blank">Paper,</a></u> <u><a href="https://www.rug.nl/sciencelinx/nieuws/2021/07/artificial-intelligence-learns-better-when-distracted" target="_blank">Media</a></u>
 * A. Glavan, A. Matei, P. Radeva, E. Talavera, “Does our social life influence our nutritional behaviour? Understanding nutritional habits from egocentric photo-streams”, Expert Systems with Applications, IF 5.452, Q1, 2021. <u><a href="https://www.youtube.com/watch?v=an86sHu6qdg&t=1s" target="_blank">Video</a></u>
