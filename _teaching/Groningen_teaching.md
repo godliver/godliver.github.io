@@ -1,8 +1,8 @@
 ---
+layout: archive
 title: "University of Groningen"
-collection: teaching
 permalink: /teaching/RUG
-location: "Groningen, Netherlands"
+author_profile: true
 date: 2021-07-20
 ---
 
