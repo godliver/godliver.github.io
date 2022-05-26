@@ -1,9 +1,9 @@
 ---
+layout: archive
 title: "University of Twente"
-collection: teaching
-type: "Education"
 permalink: /teaching/UT
-location: "Enschede, The Netherlands"
+author_profile: true
+date: 2021-07-20
 ---
 
 Data Management and Biometrics, July 2021 - Present
