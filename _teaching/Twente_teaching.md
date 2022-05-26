@@ -3,7 +3,6 @@ title: "University of Twente"
 collection: teaching
 type: "Education"
 permalink: /teaching/UT
-venue: "University of Twente"
 date: 2021-01-01
 location: "Enschede, The Netherlands"
 ---
