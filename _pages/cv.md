@@ -61,7 +61,7 @@ Thesis: MATLAB Applications on Diagnosis Facilities based on Predictive Techniqu
 <div style="padding-top: 15px;"></div>
 
 
-# Personal interests
+## Personal interests
 * Traveling and planning new trips
 * Salsa dancing
 * Outdoor activities: diving, running, biking, hiking
