@@ -4,6 +4,7 @@ collection: teaching
 type: "Education"
 permalink: /teaching/RUG
 location: "Groningen, Netherlands"
+date: 2021-07-20
 ---
 
 Department of Computer Science, Feb 2019 - Sept 2021
