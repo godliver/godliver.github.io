@@ -2,7 +2,6 @@
 layout: archive
 title: "University of Twente"
 permalink: /teaching/UT
-author_profile: true
 ---
 
 Data Management and Biometrics, July 2021 - Present
