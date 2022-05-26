@@ -1,12 +1,14 @@
 ---
 title: "University of Groningen"
 collection: teaching
-type: "Undergraduate course"
+type: "Education"
 permalink: /teaching/RUG
-venue: "University Groningen, Department of Computer Science"
+venue: " "
 date: 2021-01-01
 location: "Groningen, Netherlands"
 ---
+
+Department of Computer Science, Feb 2019- Sept 2021
 
 At RUG I co-lectured the courses Introduction to Intelligent Systems and Introduction to Machine Learning. I also lectured the master course Image Processing and bachelor course Introduction to Scientific Computing. I also did tutoring for the Introduction to Computing Science course which provides a broad introduction to different aspects of Computer Science.
 
