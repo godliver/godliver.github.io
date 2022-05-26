@@ -24,4 +24,4 @@ List of courses:
 ∼30 STUDENTS AY 2021/2022
 * My contribution to this module are a set of lectures under the theme Introduction to Machine Learning and Smart Buildings.
 
-Updated information about my contribution to teaching <u><a href="[https://pubmed.ncbi.nlm.nih.gov/31199277/](https://people.utwente.nl/e.talaveramartinez?tab=education)" target="_blank">here</a></u>.
+Updated information about my contribution to teaching <u><a href="https://people.utwente.nl/e.talaveramartinez?tab=education" target="_blank">here</a></u>.
