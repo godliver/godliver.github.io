@@ -10,6 +10,24 @@ redirect_from:
 
 <div style="padding-top: 20px;"></div>
 
+# Work experience
+
+## Assistant Professor 
+UNIVERSITY OF TWENTE <br>
+Jul 2021 - Present <br>
+* Lecturer for courses at Bachelor and Master level.<br>
+* Supervision of BSc and MSc students.<br>
+* Researcher in the Data Management and Biometrics group. Research in video analysis and egocentric perception through machine learning, data mining, pattern recognition, among others.
+
+## Lecturer and Researcher 
+UNIVERSITY OF GRONINGEN <br> 
+Feb 2019 - Aug 2021 <br>
+* Coordinator and lecturer for courses at Bachelor and Master lever. <br>
+* Supervision of BSc and MSc students.<br>
+* Researcher in the Information Systems groupwithin the Computer Science Department. Research in egocentric perception through machine learning, data mining, pattern recognition, among others. <br>
+* Organizational Task: Member of the Program Committee for the Bachelor and Master Computer Science Programs.<br>
+* Organizational Task: Improving educational tracks with new insights from a didactic/technical perspective, including e-learning techniques.
+
 # Education
 ## Joint international Ph.D. in Computer Science
 UNIVERSITY OF GRONINGEN - UNIVERSITY OF BARCELONA <br> 
@@ -32,33 +50,15 @@ Bachelor student representative in Industrial Electronics. <br>
 ERASMUS program - Technical University of Cluj Napoca, Romania - Sept 2011 - Feb 2012. <br>
 Thesis: MATLAB Applications on Diagnosis Facilities based on Predictive Techniques.
 
-<div style="padding-top: 20px;"></div>
+<div style="padding-top: 15px;"></div>
 
-# Work experience
+<h1 style="padding-top: 15px;"><a href="https://estefaniatalavera.github.io/publications/" target="_blank">Publications</a></h1>
 
-## Assistant Professor 
-UNIVERSITY OF TWENTE <br>
-Jul 2021 - Present <br>
-* Lecturer for courses at Bachelor and Master level.<br>
-* Supervision of BSc and MSc students.<br>
-* Researcher in the Data Management and Biometrics group. Research in video analysis and egocentric perception through machine learning, data mining, pattern recognition, among others.
+<h1 style="padding-top: 15px;"><a href="https://estefaniatalavera.github.io/talks/" target="_blank">Talks</a></h1>
 
-## Lecturer and Researcher 
-UNIVERSITY OF GRONINGEN <br> 
-Feb 2019 - Aug 2021 <br>
-* Coordinator and lecturer for courses at Bachelor and Master lever. <br>
-* Supervision of BSc and MSc students.<br>
-* Researcher in the Information Systems groupwithin the Computer Science Department. Research in egocentric perception through machine learning, data mining, pattern recognition, among others. <br>
-* Organizational Task: Member of the Program Committee for the Bachelor and Master Computer Science Programs.<br>
-* Organizational Task: Improving educational tracks with new insights from a didactic/technical perspective, including e-learning techniques.
+<h1 style="padding-top: 15px;"><a href="https://estefaniatalavera.github.io/teaching/" target="_blank">Teaching</a></h1>
 
-<h1 style="padding-top: 20px;"><a href="https://estefaniatalavera.github.io/publications/" target="_blank">Publications</a></h1>
-
-<h1 style="padding-top: 20px;"><a href="https://estefaniatalavera.github.io/talks/" target="_blank">Talks</a></h1>
-
-<h1 style="padding-top: 20px;"><a href="https://estefaniatalavera.github.io/teaching/" target="_blank">Teaching</a></h1>
-
-<div style="padding-top: 20px;"></div>
+<div style="padding-top: 15px;"></div>
 
 
 # Personal interests
