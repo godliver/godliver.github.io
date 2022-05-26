@@ -3,7 +3,6 @@ title: "University of Groningen"
 collection: teaching
 type: "Education"
 permalink: /teaching/RUG
-date: 2021-01-01
 location: "Groningen, Netherlands"
 ---
 
