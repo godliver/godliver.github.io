@@ -2,7 +2,6 @@
 layout: archive
 title: "University of Groningen"
 permalink: /teaching/RUG
-author_profile: true
 ---
 
 Department of Computer Science, Feb 2019 - Sept 2021
