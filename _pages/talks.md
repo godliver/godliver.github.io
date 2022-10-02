@@ -11,7 +11,7 @@ Oct 2022 <br>
 Online Talk <br>
 
 ### Invited Talk at Voxar Labs, Universidad Federal de Pernambuco, Brasil
-Oct 2022 <br> 
+Sept 2022 <br> 
 Online Talk <br>
 
 ### Invited Talk ON "Human Behaviour Understanding and Egocentric Perception” 
