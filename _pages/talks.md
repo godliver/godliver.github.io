@@ -8,7 +8,7 @@ date: 2021-07-20
 
 ### Invited Talk at Universidad de León, Spain
 Oct 2022 <br> 
-Online Talk <br>
+Onsite Talk <br>
 
 ### Invited Talk at Voxar Labs, Universidad Federal de Pernambuco, Brasil
 Sept 2022 <br> 
