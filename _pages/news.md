@@ -26,6 +26,5 @@ I started my position as Assistant professor within the <a href="https://www.utw
 
 ### Thesis Award in Computer Science
 Jan 2021 #University of Groningen <br>
-
 The Bernouilli Institute Thesis Award in Computer Science was awarded to my PhD thesis “Life-style understanding through the analysis of egocentric photo-streams”! <br>
 <a href="https://www.rug.nl/research/bernoulli/news/2021/bernoulli-best-phd-thesis-awards-2020?lang=en">Read more about the prize.</a>
