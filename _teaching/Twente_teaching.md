@@ -17,7 +17,7 @@ List of courses:
 * This is a project-based course and is taught three times a year. It is offered to students from different disciplines at UT. In my classes I present the basics of computer vision in relation to image classification.
 
 ## Artificial Intelligence and Cyber Security, within the Intelligent Interaction Design CS/BIT module (BSc - 2nd Year)
-∼330 STUDENTS AYs 2021/2022 2022/2023 
+∼330 STUDENTS AY 2021/2022 2022/2023 
 * The Artificial Intelligence (AI) parts provide an introduction to basic AI formalisms and methods and their applications. The course provides knowledge and techniques in search, logic, probabilistic reasoning, machine learning and applications of AI in cybersecurity.
 
 ## Smart Ways to get smart Cities Smarter, within the Smart City Engineering Project module (BSc - 3rd Year)
