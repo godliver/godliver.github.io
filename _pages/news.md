@@ -12,7 +12,7 @@ Oct 2022<br>
 
 ### Erasmus+ 171 funding obtained!!
 Sept 2022<br>
-Together with  <a href="https://twitter.com/GodliverO">Dr. Godliver Owomugisha</a>, we got Erasmus+ 171 funding to foster collaboration between the University of Twente and the Universities of Busitema (Torero) and Makerere (Kampala), Uganda. Looking forward to this collaboration!
+Together with  <a href="https://twitter.com/GodliverO">Dr. Godliver Owomugisha</a>, we got Erasmus+ 171 funding to foster collaboration between the University of Twente and the Universities of Busitema (Tororo) and Makerere (Kampala), Uganda. Looking forward to this collaboration!
 
 ###  I was selected as general co-chair, together with Fabian Caba, for the next edition of LatinX in CV at CVPR2023. 
 Our next workshop will again have proceedings and will be onsite in Vancouver. See you there!
