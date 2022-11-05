@@ -5,6 +5,14 @@ permalink: /news/
 author_profile: true
 ---
 
+## Program co-chair of the workshop  “LatinX in CV” at the ECCV. 
+Oct 2022<br>
+Online
+
+## Logistics co-chair of the workshop  “LatinX in CV” at the CVPR. 
+Oct 2022<br>
+New Orleans, United States.
+
 ## First prize for my 3-min PhD thesis presentation by the AERFAI at the CEDI 20/21 conference 
 Sept 23, 2021 <br>
 
