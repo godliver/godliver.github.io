@@ -6,7 +6,7 @@ author_profile: true
 date: 2021-07-20
 ---
 
-### Invited Talk at Universidad de León, Spain
+### Invited Talk at the Universidad de León, Spain
 Oct 2022 <br> 
 Onsite Talk <br>
 
