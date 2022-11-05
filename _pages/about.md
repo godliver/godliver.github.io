@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Assistant Professor at the <u><a href="https://www.utwente.nl/en/eemcs/dmb/" target="_blank">Data Management and Biometrics group</a></u> at the University of Twente. <u><a href="https://estefaniatalavera.github.io/research/" target="_blank">Research interests</a></u> include computer vision, machine learning, and their intersection for human behaviour understanding.
+Assistant Professor at the <a href="https://www.utwente.nl/en/eemcs/dmb/" target="_blank">Data Management and Biometrics group</a> at the University of Twente. <u><a href="https://estefaniatalavera.github.io/research/" target="_blank">Research interests</a></u> include computer vision, machine learning, and their intersection for human behaviour understanding.
 
-Prior to joining UTwente, she was a lecturer and researcher in the <u><a href="http://www.cs.rug.nl/infosys/">Information Systems group</a></u> at the University of Groningen. She received her PhD from the <u><a href="https://www.cs.rug.nl/is/Main/People" target="_blank">University of Groningen</a></u> and the <u><a href="http://www.ub.edu/cvub/" target="_blank">University of Barcelona</a></u>, in Feb 2020. 
-
-
+Prior to joining the University of Twente, she was a lecturer and researcher in the <u><a href="http://www.cs.rug.nl/infosys/">Information Systems group</a></u> at the University of Groningen. She received her PhD from the <u><a href="https://www.cs.rug.nl/is/Main/People" target="_blank">University of Groningen</a></u> and the <u><a href="http://www.ub.edu/cvub/" target="_blank">University of Barcelona</a></u>, in February 2020. 
 
 
 
