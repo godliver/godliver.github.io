@@ -12,7 +12,7 @@ Onsite Talk <br>
 
 ### Invited talk at Instituto Cervantes, Utrecht, Netherlands
 Sept 2022 <br> 
-I was invited to give a talk about me and my research work in the session “Mujeres también hacen ciencia” / Women also do science by the association of Spanish researchers in the Netherlands (CENL). <a href="https://twitter.com/eTalaveraM/status/1573695776383012866?s=20&t=dAFbPB59r9snPMSXMrHWcQ">Pictures</a> <br>
+I was invited to give a talk about me and my research work in the session _Nosotras también hacemos ciencia_, "We also do science" by the association of Spanish researchers in the Netherlands (CENL). <a href="https://twitter.com/eTalaveraM/status/1573695776383012866?s=20&t=dAFbPB59r9snPMSXMrHWcQ">Pictures</a> <br>
 
 
 ### Invited Talk at Voxar Labs, Universidad Federal de Pernambuco, Brasil
@@ -22,7 +22,7 @@ Online Talk <br>
 ### Invited Talk ON "Human Behaviour Understanding and Egocentric Perception” 
 Oct 2021 <br> 
 Online Talk <br>
-Invited Featured Talk in the series of “LXAI Workshop”, ICCV, Virtual.<br>
+Invited Featured Talk in the series of Latin in AI Workshop, ICCV.<br>
 <a href="https://youtu.be/HP8Ay-i35T8" target="_blank">Video</a>
 
 ### TUTORIAL ON Egocentric Perception and Machine Learning
