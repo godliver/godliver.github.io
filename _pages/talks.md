@@ -10,6 +10,11 @@ date: 2021-07-20
 Oct 2022 <br> 
 Onsite Talk <br>
 
+### Invited talk at Instituto Cervantes, Utrecht, Netherlands
+Sept 2022 <br> 
+I was invited to give a talk about me and my research work in the session “Mujeres también hacen ciencia” / Women also do science by the association of Spanish researchers in the Netherlands (CENL). <u><a href="https://twitter.com/eTalaveraM/status/1573695776383012866?s=20&t=dAFbPB59r9snPMSXMrHWcQ">Pictures</a></u> <br>
+
+
 ### Invited Talk at Voxar Labs, Universidad Federal de Pernambuco, Brasil
 Sept 2022 <br> 
 Online Talk <br>
