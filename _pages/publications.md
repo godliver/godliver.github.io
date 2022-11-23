@@ -9,11 +9,12 @@ date: 2021-07-20
 You can find video presentations of our work at the following <u><a href="https://www.youtube.com/channel/UC3F55YP8PZWUOxs3vm1_amw">YouTube channel</a></u>.<br>
 
 ### 2022 ###
+* J. Barkai, M. Verheijen, E. Talavera, M. Wilkinson, “A comparative study of source finding techniques in HI emission line cubes using SoFiA, MTObjects and supervised deep learning”, Astronomy & Astrophysics, 2022 <u><a href="https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/202244708" target="_blank">Paper</a></u>
+* K. Boekhoudt, E.Talavera, “Spatial-Temporal Transformer for Crime Recognition in Surveillance Videos”, 18th IEEE International Conference on Advanced Video and Signal-Based Surveillance, 2022.
 * A. Glavan, E. Talavera, “InstaIndoor and multi-modal deep learning for indoor scene recognition”, Neural Computing and Applications, IF 5.6, Q1, 2022. <u><a href="https://arxiv.org/abs/2112.12409" target="_blank">Paper,</a></u> <u><a href="https://github.com/andreea-glavan/multimodal-audiovisual-scene-recognition" target="_blank">GitHub,</a></u> <u><a href="https://www.rug.nl/sciencelinx/nieuws/2022/01/instagram-teaches-ai-to-recognize-rooms" target="_blank">Media,</a></u>  <u><a href="https://www.youtube.com/watch?v=wSP9bvQi7so&t=4s" target="_blank">Video</a></u>
 
 ### 2021 ###
-* D. Morales, E. Talavera, B. Remeseiro, “Playing to distraction: towards a robust training of CNN classifiers through visual explanation
-techniques”, Neural Computing and Applications, IF 5.606, Q1, 2021. <u><a href="https://link.springer.com/article/10.1007/s00521-021-06282-2" target="_blank">Paper,</a></u> <u><a href="https://www.rug.nl/sciencelinx/nieuws/2021/07/artificial-intelligence-learns-better-when-distracted" target="_blank">Media</a></u>
+* D. Morales, E. Talavera, B. Remeseiro, “Playing to distraction: towards a robust training of CNN classifiers through visual explanation techniques”, Neural Computing and Applications, IF 5.606, Q1, 2021. <u><a href="https://link.springer.com/article/10.1007/s00521-021-06282-2" target="_blank">Paper,</a></u> <u><a href="https://www.rug.nl/sciencelinx/nieuws/2021/07/artificial-intelligence-learns-better-when-distracted" target="_blank">Media</a></u>
 * A. Glavan, A. Matei, P. Radeva, E. Talavera, “Does our social life influence our nutritional behaviour? Understanding nutritional habits from egocentric photo-streams”, Expert Systems with Applications, IF 5.452, Q1, 2021. <u><a href="https://www.youtube.com/watch?v=an86sHu6qdg&t=1s" target="_blank">Video</a></u>
 * A. Matei, A. Glavan, P. Radeva, E. Talavera, “Towards Eating Habits Discovery in Egocentric Photo-streams”, IEEE Access, IF 3.745, Q1, 2021.
 * E. Talavera, N. Petkov, P. Radeva, “Egocentric vision for behavioural understanding”, Book Chapter Wearable Sensors: Fundamentals, Implementation and Applications, 2021.
