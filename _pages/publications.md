@@ -8,9 +8,11 @@ date: 2021-07-20
 
 You can find video presentations of our work at the following <u><a href="https://www.youtube.com/channel/UC3F55YP8PZWUOxs3vm1_amw">YouTube channel</a></u>.<br>
 
+
+
 ### 2022 ###
 * J. Barkai, M. Verheijen, E. Talavera, M. Wilkinson, “A comparative study of source finding techniques in HI emission line cubes using SoFiA, MTObjects and supervised deep learning”, Astronomy & Astrophysics, 2022 <u><a href="https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/202244708" target="_blank">Paper,</a></u> <u><a href="https://github.com/Jbarkai/HISourceFinder" target="_blank">GitHub</a></u> <u><a href="https://youtu.be/aQbE-UhBOlQ" target="_blank">Video</a></u>
-* K. Boekhoudt, E.Talavera, “Spatial-Temporal Transformer for Crime Recognition in Surveillance Videos”, 18th IEEE International Conference on Advanced Video and Signal-Based Surveillance, 2022. <u><a href="https://youtu.be/JUUjanflAcU" target="_blank">Video</a></u>
+* K. Boekhoudt, E.Talavera, “Spatial-Temporal Transformer for Crime Recognition in Surveillance Videos”, 18th IEEE International Conference on Advanced Video and Signal-Based Surveillance, 2022. <u><a href="https://ieeexplore.ieee.org/abstract/document/9959414" target="_blank">Paper, <u><a href="https://youtu.be/JUUjanflAcU" target="_blank">Video</a></u>
 * A. Glavan, E. Talavera, “InstaIndoor and multi-modal deep learning for indoor scene recognition”, Neural Computing and Applications, IF 5.6, Q1, 2022. <u><a href="https://arxiv.org/abs/2112.12409" target="_blank">Paper,</a></u> <u><a href="https://github.com/andreea-glavan/multimodal-audiovisual-scene-recognition" target="_blank">GitHub,</a></u> <u><a href="https://www.rug.nl/sciencelinx/nieuws/2022/01/instagram-teaches-ai-to-recognize-rooms" target="_blank">Media,</a></u>  <u><a href="https://www.youtube.com/watch?v=wSP9bvQi7so&t=4s" target="_blank">Video</a></u>
 
 ### 2021 ###
