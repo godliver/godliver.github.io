@@ -85,9 +85,9 @@ author:
   bio              : "Busitema University"
   location         : "Tororo, Uganda"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.es/citations?hl=es&user=lDW7eNEAAAAJ"
-  email            : "ogodliver@gmail"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=s26G8-QAAAAJ&hl=en&oi=ao"
+  email            : "ogodliver@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Estefania-Talavera" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
