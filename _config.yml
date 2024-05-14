@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=s26G8-QAAAAJ&hl=en&oi=ao"
   email            : "ogodliver@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Estefania-Talavera" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : #"https://www.researchgate.net/profile/Estefania-Talavera" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "estefaniatalavera"
+  github           : "godliver"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "estefaniatalavera"
-  orcid            : "https://orcid.org/0000-0001-5918-8990"
+  linkedin         : "https://www.linkedin.com/in/godliver-owomugisha-57970a22/"
+  orcid            : "https://orcid.org/0000-0002-5042-4245"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "eTalaveraM"
+  twitter          : "GodliverO"
   vine             :
   weibo            :
   xing             :
