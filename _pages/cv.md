@@ -31,24 +31,11 @@ spatial modeling of viral cassava diseases in Uganda”, led by <a href="https:/
 # Education
 ## Joint international Ph.D. in Computer Science
 UNIVERSITY OF GRONINGEN - UNIVERSITY OF BARCELONA <br> 
-Feb 2015 - Feb 2020 <br>
-Title: Lifelogging as a tool for behaviour understanding <br>
-Within the Intelligent Systems group <br>
-Keywords: Egocentric vision, Data mining, Time series, Machine learning, Behaviour analysis.<br>
-The manuscript can be found at <a href="https://doi.org/10.33612/diss.112971105" target="_blank">https://doi.org/10.33612/diss.112971105.</a>
-
-## MSc. in Biomedical Engineering
-POLYTECHNIC UNIVERSITY OF CATALONIA AND UNIVERSITY OF BARCELONA <br>
-Sept 2012 - Jun 2014 <br>
-Master student representative in Biomedical engineering.<br>
-Thesis: Towards unsupervised life-logging video segmentation.
-
-## BSc. in Industrial Electronics Palma de Mallorca, Spain
-UNIVERSITY OF BALEARIC ISLANDS <br>
-Sept 2008 - Feb 2012 <br>
-Bachelor student representative in Industrial Electronics. <br>
-ERASMUS program - Technical University of Cluj Napoca, Romania - Sept 2011 - Feb 2012. <br>
-Thesis: MATLAB Applications on Diagnosis Facilities based on Predictive Techniques.
+Sept 2015 - Aug 2020 <br>
+Title: Computational intelligence & modeling of crop disease data in Africa <br>
+The manuscript can be found at <a href="https://doi.org/10.33612/diss.130773079" target="_blank">https://doi.org/10.33612/diss.130773079.</a>
+Best Engineering Thesis Award 2020: My thesis was awarded as the best UG Engineering Thesis. <a href="https://www.rug.nl/news/2021/01/best-engineering-thesis-2021-for"> You can read more about this award here
+</a> <br> 
 
 <div style="padding-top: 15px;"></div>
 
