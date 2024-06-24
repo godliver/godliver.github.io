@@ -18,7 +18,7 @@ Jan 2021 - Present <br>
 I have over 10 years teaching experience in academia; teaching computer science and AI related courses at Busitema University.  
 * Lecturer for courses at Bachelor, Master and PhD level.<br>
 * Supervision of BSc, MSc and PhD students.<br>
-* Researcher in the Data Management and Biometrics group. Research in video analysis and egocentric perception through machine learning, data mining, pattern recognition, among others.
+* My research interests concern theoretical and practical aspects of artificial intelligence, in particular, computer vision and machine learning techniques in relation to solving real world problems. 
 
 ## Former Research Scholar 
 <a href="https://air.ug/" target="_blank">MAKERERE UNIVERSITY AI LAB</a> <br> 
