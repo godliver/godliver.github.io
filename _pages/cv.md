@@ -24,7 +24,8 @@ I have over 10 years teaching experience in academia; teaching computer science 
 <a href="https://air.ug/" target="_blank">MAKERERE UNIVERSITY AI LAB</a> <br> 
 Sept 2015 - Aug 2020 <br>
 * At Makerere AI Lab I was affiliated to a project titled “Automated mobile survey technology and
-spatial modeling of viral cassava diseases in Uganda”, led by <a href="https://emwebaze.github.io/" target="_blank"> Dr. Ernest Mwebaze</a> 
+spatial modeling of viral cassava diseases in Uganda”, led by <a href="https://emwebaze.github.io/" target="_blank"> Dr. Ernest Mwebaze</a> <br>
+* The research explore the use of innovative low-cost spectrometry mobile phone add-ons for determining the health of planting materials and non-invasive field diagnosis of crop diseases among other objectives. 
 
 
 # Education
