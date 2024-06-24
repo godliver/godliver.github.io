@@ -13,7 +13,7 @@ redirect_from:
 # Work experience
 
 ## Senior Lecturer 
-<a href="https://people.busitema.ac.ug/staff/academic-staff/godliver-owomugisha" target="_blank">BUSITEMA UNIVERSITY AI LAB</a>  <br>
+<a href="https://people.busitema.ac.ug/staff/academic-staff/godliver-owomugisha" target="_blank">BUSITEMA UNIVERSITY</a>  <br>
 Jan 2012 - Present <br>
 I have over 10 years teaching experience in academia; teaching computer science and AI related courses at Busitema University.  
 * Lecturer for courses at Bachelor, Master and PhD level.<br>
