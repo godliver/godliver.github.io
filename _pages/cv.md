@@ -29,8 +29,8 @@ spatial modeling of viral cassava diseases in Uganda”, led by <a href="https:/
 
 
 # Education
-## Joint international Ph.D. in Computer Science
-UNIVERSITY OF GRONINGEN - UNIVERSITY OF BARCELONA <br> 
+## Ph.D. in Computer Science
+UNIVERSITY OF GRONINGEN <br> 
 Sept 2015 - Aug 2020 <br>
 Title: Computational intelligence & modeling of crop disease data in Africa <br>
 The manuscript can be found at <a href="https://doi.org/10.33612/diss.130773079" target="_blank">https://doi.org/10.33612/diss.130773079 </a> <br>
