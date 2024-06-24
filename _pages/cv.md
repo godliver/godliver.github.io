@@ -23,11 +23,9 @@ I have over 10 years teaching experience in academia; teaching computer science 
 ## Former Research Scholar 
 <a href="https://air.ug/" target="_blank">MAKERERE UNIVERSITY AI LAB</a> <br> 
 Sept 2015 - Aug 2020 <br>
-* Coordinator and lecturer for courses at Bachelor and Master lever. <br>
-* Supervision of BSc and MSc students.<br>
-* Researcher in the Information Systems groupwithin the Computer Science Department. Research in egocentric perception through machine learning, data mining, pattern recognition, among others. <br>
-* Organizational Task: Member of the Program Committee for the Bachelor and Master Computer Science Programs.<br>
-* Organizational Task: Improving educational tracks with new insights from a didactic/technical perspective, including e-learning techniques.
+* At Makerere AI Lab I was affiliated to a project titled “Automated mobile survey technology and
+spatial modeling of viral cassava diseases in Uganda”, led by <a href="https://emwebaze.github.io/" target="_blank"> Dr. Ernest Mwebaze</a> 
+
 
 # Education
 ## Joint international Ph.D. in Computer Science
