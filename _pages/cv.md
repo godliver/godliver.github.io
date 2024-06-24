@@ -34,7 +34,8 @@ UNIVERSITY OF GRONINGEN - UNIVERSITY OF BARCELONA <br>
 Sept 2015 - Aug 2020 <br>
 Title: Computational intelligence & modeling of crop disease data in Africa <br>
 The manuscript can be found at <a href="https://doi.org/10.33612/diss.130773079" target="_blank">https://doi.org/10.33612/diss.130773079.</a> <br>
-Best Engineering Thesis Award 2020: My thesis was awarded as the best UG Engineering Thesis. <a href="https://www.rug.nl/news/2021/01/best-engineering-thesis-2021-for"> You can read more about this award here
+Best Engineering Thesis Award 2020: My thesis was awarded as the best UG Engineering Thesis. <br> 
+<a href="https://www.rug.nl/news/2021/01/best-engineering-thesis-2021-for"> You can read more about this award here
 </a> <br> 
 
 <div style="padding-top: 15px;"></div>
