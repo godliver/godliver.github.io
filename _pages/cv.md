@@ -51,7 +51,6 @@ Best Engineering Thesis Award 2020: My thesis was awarded as the best UG Enginee
 
 
 ## Personal interests
-* Traveling and planning new trips
-* Salsa dancing
-* Outdoor activities: diving, running, biking, hiking
-* Reading of history, society, women in society, and science
+* Farming - I love plants and animals
+* Nature walks, Hiking
+* Traveling 
