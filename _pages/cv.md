@@ -12,16 +12,16 @@ redirect_from:
 
 # Work experience
 
-## Assistant Professor 
-UNIVERSITY OF TWENTE <br>
-Jul 2021 - Present <br>
-* Lecturer for courses at Bachelor and Master level.<br>
-* Supervision of BSc and MSc students.<br>
+## Senoir Lecturer 
+BUSITEMA UNIVERSITY <br>
+Jan 2021 - Present <br>
+* Lecturer for courses at Bachelor, Master and PhD level.<br>
+* Supervision of BSc, MSc and PhD students.<br>
 * Researcher in the Data Management and Biometrics group. Research in video analysis and egocentric perception through machine learning, data mining, pattern recognition, among others.
 
-## Lecturer and Researcher 
-UNIVERSITY OF GRONINGEN <br> 
-Feb 2019 - Aug 2021 <br>
+## Former Research Scholar 
+<a href="https://air.ug/" target="_blank">MAKERERE UNIVERSITY AI LAB</a> <br> 
+Sept 2015 - Aug 2020 <br>
 * Coordinator and lecturer for courses at Bachelor and Master lever. <br>
 * Supervision of BSc and MSc students.<br>
 * Researcher in the Information Systems groupwithin the Computer Science Department. Research in egocentric perception through machine learning, data mining, pattern recognition, among others. <br>
