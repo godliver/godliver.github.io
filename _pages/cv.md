@@ -14,7 +14,7 @@ redirect_from:
 
 ## Senoir Lecturer 
 <a href="https://air.ug/" target="_blank">BUSITEMA UNIVERSITY AI LAB</a>  <br>
-Jan 2021 - Present <br>
+Jan 2012 - Present <br>
 I have over 10 years teaching experience in academia; teaching computer science and AI related courses at Busitema University.  
 * Lecturer for courses at Bachelor, Master and PhD level.<br>
 * Supervision of BSc, MSc and PhD students.<br>
