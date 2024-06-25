@@ -6,7 +6,8 @@ author_profile: true
 date: 2021-07-20
 ---
 
-A Full publication list can be found here: <u><a style="text-decoration:none href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=godliver+owomugisha&oq=">Google Scholar </a></u>.<br>
+A Full publication list can be found here: <a style="text-decoration:none" href="https://scholar.google.com/citations?user=s26G8-QAAAAJ&hl=en&oi=ao">Google Scholar</a>
+<br>
 
 
 
