@@ -6,7 +6,7 @@ author_profile: true
 date: 2021-07-20
 ---
 
-You can find video presentations of our work at the following <u><a href="https://www.youtube.com/channel/UC3F55YP8PZWUOxs3vm1_amw">YouTube channel</a></u>.<br>
+A Full publication list can be found here: <u><a style="text-decoration:none href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=godliver+owomugisha&oq=">Google Scholar </a></u>.<br>
 
 
 
