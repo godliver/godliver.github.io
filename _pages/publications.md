@@ -10,7 +10,7 @@ A full publication list can be found on my <a href="https://scholar.google.com/c
 <br>
 
 
-
+<!
 ### 2022 ###
 * J. O, “A field-based recommender system for crop disease detection using machine learning”, Astronomy & Astrophysics, 2022 <u><a href="https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/202244708" target="_blank">Paper,</a></u> <u><a href="https://github.com/Jbarkai/HISourceFinder" target="_blank">GitHub,</a></u> <u><a href="https://youtu.be/aQbE-UhBOlQ" target="_blank">Video</a></u>
 * K. Boekhoudt, E.Talavera, “Spatial-Temporal Transformer for Crime Recognition in Surveillance Videos”, 18th IEEE International Conference on Advanced Video and Signal-Based Surveillance, 2022. <u><a href="https://ieeexplore.ieee.org/abstract/document/9959414" target="_blank">Paper, <u><a href="https://youtu.be/JUUjanflAcU" target="_blank">Video</a></u>
@@ -58,3 +58,5 @@ Streams Segmentation”, International Journal Computer Vision and Image Underst
 * E. Talavera, P. Radeva, N. Petkov, “Towards Unsupervised Familiar Scene Recognition in Egocentric Videos,” In 8th GI Conference on Autonomous Systems, pp. 80-91, published in proceedings as Chapter VDI Verlag, 2015.
 * M. Bolaños, R. Mestre, E. Talavera, X. Giro-i-Nieto, P. Radeva, “Visual Summary of Egocentric Photostreams by Representative Keyframes”, In International Workshop on Wearable and Ego-vision Systems for Augmented Experience (WEsAX), pp. 1-6, published in the proceedings, 2015.
 * E. Talavera, M. Dimiccoli, M. Bolaños, M. Aghaei, P. Radeva, “R-Clustering for Egocentric Video Segmentation,” 7th Iberian Conference on Pattern Recognition and Image Analysis (IBPRIA), pp. 327-336, Chapter Springer Verlag, 2015.
+
+>
