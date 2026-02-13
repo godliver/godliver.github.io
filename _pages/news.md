@@ -6,9 +6,8 @@ author_profile: true
 ---
 
 
-### I'm a program chair for Data Science Africa, 2026 at Makerere University. 
-July 2026<br>
-<a href="https://www.datascienceafrica.org/dsa-2026">Event page</a>.
+### I'm a program chair for <a href="https://www.datascienceafrica.org/dsa-2026">Data Science Africa, 2026</a> at Makerere University. 
+July 20th - 24th, 2026<br>
 
 ### Erasmus+ 171 funding obtained!!
 Sept 2022<br>
