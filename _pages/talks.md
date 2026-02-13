@@ -7,7 +7,8 @@ date: 2025-12-12
 ---
  		
 ### Invited Talk "AI for Public Benefit: Bridging Technology and Society" AI House Davos, Switzerland 2025 <br>
-January, 2025. <a href=" https://www.youtube.com/watch?app=desktop&v=ZAdcOA2-dk4"> </a> <br>
+January, 2025. <br>
+<a href=" https://www.youtube.com/watch?app=desktop&v=ZAdcOA2-dk4"> </a> <br>
 
 ### Talk at Dedan Kimathi University, Nyeri, Kenya <br>
 Data Science Africa <br>
