@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 
-### I was program co-chair of the workshop  “LatinX in CV” at the ECCV. 
-Oct 2022<br>
-<a href="https://www.latinxinai.org/eccv-2022">Event page</a>. Online.
+### I'm a program chair for Data Science Africa, 2026 at Makerere University. 
+July 2026<br>
+<a href="https://www.datascienceafrica.org/dsa-2026">Event page</a>.
 
 ### Erasmus+ 171 funding obtained!!
 Sept 2022<br>
