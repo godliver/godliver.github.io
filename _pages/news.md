@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### I'm a program chair for <a href="https://www.datascienceafrica.org/dsa-2026">Data Science Africa, 2026</a> at Makerere University. July 20th - 24th, 2026 <br>
-Together with Dr. Adeleke Bankole
+Together with  <a href="https://www.linkedin.com/in/adeleke-o-bankole-ph-d-a666277a/">Dr. Adeleke Bankole</a>
  
 
 ## Research Projects
