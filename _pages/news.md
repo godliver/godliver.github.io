@@ -5,8 +5,8 @@ permalink: /news/
 author_profile: true
 ---
 
-### I'm a program chair for <a href="https://www.datascienceafrica.org/dsa-2026">Data Science Africa, 2026</a> at Makerere University.
-July 20th - 24th, 2026<br>
+### I'm a program chair for <a href="https://www.datascienceafrica.org/dsa-2026">Data Science Africa, 2026</a> at Makerere University. <br>
+July 20th - 24th, 2026 
 
 ## Research Projects
 ### Climate and Agriculture:
@@ -21,7 +21,7 @@ Together with  <a href="https://estefaniatalavera.github.io/">Dr. Estefanía Tal
 More than 10 students (PhDs and Masters) have benefited from this exchange program since 2022. 
 
 ### Awards and Recorgnitions
-I have received several awards and recognitions, and my PhD thesis award is a reminder of why the work I do every day matters :)
+I have received several awards and recognitions, and my PhD thesis award is a reminder of why the work I do every day matters :) <br>
 Jan 2021 #University of Groningen <br>
 My thesis was awarded the Best Engineering Thesis of 2020 by the University of Groningen. <br>
 <a href="https://www.rug.nl/news/2021/01/best-engineering-thesis-2021-for">Read more about the prize.</a>
