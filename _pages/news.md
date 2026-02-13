@@ -5,29 +5,21 @@ permalink: /news/
 author_profile: true
 ---
 
-
-### I'm a program chair for <a href="https://www.datascienceafrica.org/dsa-2026">Data Science Africa, 2026</a> at Makerere University. 
+### I'm a program chair for <a href="https://www.datascienceafrica.org/dsa-2026">Data Science Africa, 2026</a> at Makerere University.
 July 20th - 24th, 2026<br>
 
+### Research Projects
+## Climate and Agriculture:
+I lead research in early disease monitoring through advanced and low-cost technologies. About 40% of the global crop production is lost to pests. Sub-Saharan Africa is most vulnerable to the increasing risks of pests and diseases spreading in agriculture. We are building low-cost sensory tools to detect diseases before they manifested on the leaves. Thanks to our partnership with ICAIN, DSA and other partners for supporting our work.
+
+## Eductaion and Capacity Buiding
+I lead initiatives focused on closing the AI knowledge gap in our community - "AI for All". I work to engage a wide range of stakeholders across the education spectrum, communities and policymakers. This effort is supported by ICAIN in collaboration with other partners.
+
 ### Erasmus+ 171 funding obtained!!
-Sept 2022<br>
-Together with  <a href="https://twitter.com/GodliverO">Dr. Godliver Owomugisha</a>, we got Erasmus+ 171 funding to foster collaboration between the University of Twente and the Universities of Busitema (Tororo) and Makerere (Kampala), Uganda. Looking forward to this collaboration!
+Together with  <a href="https://estefaniatalavera.github.io/">Dr. Estefanía Talavera</a>, we got Erasmus+ 171 funding to foster collaboration between the University of Twente and the Universities of Busitema (Tororo) and Makerere (Kampala), Uganda.
 
-###  I was selected as general co-chair, together with Fabian Caba, for the next edition of LatinX in CV at CVPR2023. 
-Our next workshop will again have proceedings and will be onsite in Vancouver. See you there!
-
-### I was logistics co-chair of the workshop  “LatinX in CV” at the CVPR. 
-Jun 2022<br>
-<a href="https://www.latinxinai.org/cvpr-2022-about">Event page</a>. New Orleans, United States. 
-
-### First prize for my 3-min PhD thesis presentation by the AERFAI at the CEDI 20/21 conference 
-Sept 23, 2021 <br>
-
-### I started new position at UTwente
-Jul 2021 #University of Twente <br>
-I started my position as Assistant professor within the <a href="https://www.utwente.nl/en/eemcs/dmb/">Data Management & Biometrics (DMB)</a> group, at the Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS), University of Twente. 
-
-### Thesis Award in Computer Science
+### Awards and Recorgnitions
+I have received several awards and recognitions, and my PhD thesis award is a reminder of why the work I do every day matters :)
 Jan 2021 #University of Groningen <br>
-The Bernouilli Institute Thesis Award in Computer Science was awarded to my PhD thesis “Life-style understanding through the analysis of egocentric photo-streams”! <br>
-<a href="https://www.rug.nl/research/bernoulli/news/2021/bernoulli-best-phd-thesis-awards-2020?lang=en">Read more about the prize.</a>
+My thesis was awarded the Best Engineering Thesis of 2020 by the University of Groningen. <br>
+<a href="https://www.rug.nl/news/2021/01/best-engineering-thesis-2021-for">Read more about the prize.</a>
