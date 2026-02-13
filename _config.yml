@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   :
-title                    : "Dr. Godliver Owomugisha"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Dr. Godliver Owomugisha"
 description              : &description "personal description"
