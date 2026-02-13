@@ -15,7 +15,7 @@ I'm a Senior Lecturer and researcher at <a style="text-decoration:none" href="ht
 
 My Bachelors and Masters degree are in Computer Science from Makerere University received in 2011 and 2015 respectively. My research interests concern theoretical and practical aspects of artificial intelligence, in particular, computer vision and machine learning techniques in relation to solving real world problems.
 
-My career <a style="text-decoration:none" href="https://www.datascienceafrica.org/voices-of-data-science-africa/i-found-my-path-through-dsa"> my path</a>
+My career: <a style="text-decoration:none" href="https://www.datascienceafrica.org/voices-of-data-science-africa/i-found-my-path-through-dsa"> A journey started here</a>
 
 
 
