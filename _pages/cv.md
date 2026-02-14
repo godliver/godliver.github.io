@@ -47,5 +47,5 @@ Thesis: <a href="https://scholar.google.com/citations?view_op=view_citation&hl=e
 
 
 ## Personal interests
-* Farming - I love plants and animals
-* Nature walks, Hiking
+* I love farming and I do it on small scale. 
+* Nature and Hiking
