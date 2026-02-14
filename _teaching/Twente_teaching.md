@@ -15,7 +15,7 @@ Deep learning <br>
 Research methods <br>
 
 ## Bachelors courses <br>
-### Bsc in Computer Engineering, Bsc in Electrical Engineering as well as Diplomas in this field. <br>
+### Bsc in Computer Engineering, Bsc in Electrical Engineering as well as Diplomas in these field. <br>
 Artificial Intelligence <br>
 Systems programming (Unix Environment) <br>
 Data Structures and Algorithms <br>
