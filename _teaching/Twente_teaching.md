@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Busitema University"
-permalink: /teaching/UT
+permalink: /teaching/BU
 ---
 
 Department of Computer Engineering, Faculty of Engineering, Busitema University <br>
