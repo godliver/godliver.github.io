@@ -15,7 +15,7 @@ I lead research in early disease monitoring through advanced and low-cost techno
 
 ### Eductaion and Capacity Buiding
 ### AI for All
-I lead initiatives focused on closing the AI knowledge gap in our community - "AI for All". I work to engage a wide range of stakeholders across the education spectrum, communities and policymakers. This effort is supported by ICAIN in collaboration with other partners.
+I lead initiatives focused on closing the AI knowledge gap in our community - "AI for All". I work to engage a wide range of stakeholders across the education spectrum, communities and policymakers. Thanks to our partnership with ICAIN, DSA and other partners for supporting our work. 
 
 ### Erasmus+ 171 student and staff exchange program
 Together with  <a href="https://estefaniatalavera.github.io/">Dr. Estefanía Talavera</a>, we got Erasmus+ 171 funding to foster collaboration between the University of Twente and the Universities of Busitema (Tororo) and Makerere (Kampala), Uganda.
