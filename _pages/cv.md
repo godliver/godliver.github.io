@@ -39,18 +39,7 @@ Best Engineering Thesis Award 2020: My thesis was awarded as the best UG Enginee
 <a href="https://www.rug.nl/news/2021/01/best-engineering-thesis-2021-for"> You can read more about this award here
 </a> <br> 
 
-<div style="padding-top: 15px;"></div>
-
-<h1 style="padding-top: 15px;"><a href="https://estefaniatalavera.github.io/publications/" target="_blank">Publications</a></h1>
-
-<h1 style="padding-top: 15px;"><a href="https://estefaniatalavera.github.io/talks/" target="_blank">Talks</a></h1>
-
-<h1 style="padding-top: 15px;"><a href="https://estefaniatalavera.github.io/teaching/" target="_blank">Teaching</a></h1>
-
-<div style="padding-top: 15px;"></div>
-
 
 ## Personal interests
 * Farming - I love plants and animals
 * Nature walks, Hiking
-* Traveling 
