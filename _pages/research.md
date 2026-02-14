@@ -12,6 +12,8 @@ date: 2026-01-20
 * Computer vision
 * Multimodal AI 
 * LLMS
+* Community Research and Engagement
+* Ethics and Responsible AI 
 
 ## Datasets
 We have several datasets avalilable on Agriculture and Crop disease monitoring <br>
