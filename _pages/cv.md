@@ -29,7 +29,7 @@ spatial modeling of viral cassava diseases in Uganda”, led by <a href="https:/
 
 
 # Education
-## Ph.D. in Computer Science
+## PhD in Computer Science
 UNIVERSITY OF GRONINGEN <br> 
 Sept 2015 - Aug 2020 <br>
 Title: Computational intelligence & modeling of crop disease data in Africa <br>
@@ -38,6 +38,12 @@ Best Engineering Thesis Award 2020: My thesis was awarded as the best UG Enginee
 <br> 
 <a href="https://www.rug.nl/news/2021/01/best-engineering-thesis-2021-for"> You can read more about this award here
 </a> <br> 
+
+## Masters in Computer Science
+MAKERERE UNIVERSITY
+Aug 2013 - Jan 2015 <br>
+Thesis: <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=s26G8-QAAAAJ&citation_for_view=s26G8-QAAAAJ:9yKSN-GCB0IC"> Automated Vision-Based Diagnosis of Banana Bacterial Wilt Disease and Black Sigatoka Disease </a> <br> 
+
 
 
 ## Personal interests
