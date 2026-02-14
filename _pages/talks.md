@@ -7,7 +7,7 @@ date: 2025-12-12
 ---
 
 ## Podcast <a href="https://www.youtube.com/watch?v=62XRYNuLZ7k"> Unboxed: Bridging the gender gap in AI</a> <br> 
-### NTVU, October 2025 <br>
+NTVU, October 2025 <br>
 
 ## Invited Talk <a href="https://www.youtube.com/watch?app=desktop&v=ZAdcOA2-dk4"> AI for Public Benefit: Bridging Technology and Society</a> <br>
 ### AI House Davos, Switzerland, January 2025 <br>
@@ -21,7 +21,7 @@ date: 2025-12-12
 ### Topic: Adoption of smartphone agro-applications for field-based disease diagnosis and real-time feedback for smallholder farmers
 
 ## Invited Talk at Deep Learning IndabaX Uganda July 30, 2021 <br>
-### Topic: <ahref=" https://indabaxug.github.io/index21.html"> Early Disease Detection of Plant Diseases Using Spectral Data</a> <br>
+### Topic: <a href=" https://indabaxug.github.io/index21.html"> Early Disease Detection of Plant Diseases Using Spectral Data</a> <br>
 
 ## Invited Talk at AFRICA BLOCKCHAIN CONFERENCE 2019, Kampala. <br>
 ### Topic: Artificial Intelligence in Africa <br>
